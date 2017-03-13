@@ -24,6 +24,7 @@ noche			night
 temprano		early
 tarde			late
 aquí			here
+acá			here
 hoy			today
 ayer			yesterday
 mańana			morning
@@ -85,7 +86,8 @@ plateado		silver
 dorado			gold
 oro			gold
 oscuro			dark
-claro			clear
+claro			of course/clear
+las frutas		fruits
 la almendra		almond
 la manzana		apple
 el albaricoque		apricot
@@ -93,6 +95,7 @@ la alcochofa		artichoke
 el espárrago		asparagus
 el aguacate		avocado
 el plátano		banana
+los bananos		bananas
 la albahaca		basil	
 la judía		bean
 la zarzamora		blackberry
@@ -125,12 +128,14 @@ la seta			mushroom
 la nuez			nut
 la naranja		orange
 el perejil		parsley
+la papaya		papaya
 el melocotón		peach
 la pera			pear
 la pimienta		pepper
 la pińa			pineapple
 la ciruela		plum
 la patata		potato
+las papas		potatos
 la calabaza		pumpkin
 el rábano		radish
 la frambuesa		raspberry
@@ -142,6 +147,7 @@ el tomate		tomato
 la trufa		truffle
 la sandía		water melon
 el albornoz		bathrobe
+la bata			robe
 el cinturón		belt
 la blusa		blouse
 las botas		boots
@@ -159,15 +165,19 @@ la pijama		pajamas
 los pantalones		pants
 el bolsillo		pocket
 el bolso		purse
+la cartera		purse/pocketbook
 el impermeable		raincoat
 la sandalia		sandal
 la camisa		shirt
 el zapato		shoe
+los zapatos tenis	sneakers
 los pantalones cortos	shorts
 el short		shorts
 la falda		skirt
 la zapatilla		slipper
+las pantuflas		slippers
 el calcetín		sock
+los calcetínes		socks
 la media		stocking
 el traje		suit	
 el suéter		sweater
@@ -322,6 +332,7 @@ afortunadamente		fortunately
 desafortunadamente	unfortunately
 lamentablemente		unfortunately
 solamente		only
+sólo			only
 mayormente		especially
 hermosamente		beautifully
 constantemente		constantly
@@ -331,6 +342,7 @@ cuidadosamente		carefully
 detenidamente		fully
 próximamente		soon
 repentinamente		suddenly
+de repente		suddenly
 decididamente		decidedly
 vivamente		vividly
 excelentemente		excellently
@@ -482,6 +494,7 @@ la farmacia		pharmacy/drugstore
 la discoteca		club
 el banco		bank
 la zapatería		shoe store
+el calzado		shoe shop
 la floristería		flower store
 el edificio		building
 el vecino		neighbor
@@ -596,3 +609,495 @@ cada			each/every
 todo			everything
 la mierda		shit
 el culo			ass
+anciana			elderly
+nuevo			new
+viejo			old
+triste			sad
+feliz			happy
+sucío			dirty
+gordo			big/fat
+alto			tall
+grande			big/large
+pequeńo			small
+limpio			clean
+feo			ugly
+bonita			pretty/beautiful
+bonito			good-looking
+enfermo			sick/ill
+rubio			blond
+el frío			cold
+caliente		hot
+moreno			dark skinned
+rico			rich/delicious
+bella			beautiful
+deliciosa		delicious
+dulce			sweet
+rápidos			fast
+horrible		awful
+bajo			short
+pobre			poor
+sincero			sincere
+malo			bad
+difícil			difficult
+grueso			thick/stout
+sujeto a		subject to
+flojo			lazy
+simpático		pleasant/nice
+tranquilo		quiet
+bueno			good
+traviesa		mischievous fem
+tonto			stupid/dumb
+lento			slow
+delgado			thin
+fuerte			strong
+gordito			chubby
+guapo			handsome
+gúero			blond
+rubia			blonde
+carińoso		loving
+hablador		talkative
+tímido			shy
+callado			shy/quiet
+sabroso			tasty
+caro			expensive
+preferido		favorite/preferred
+juguetona		playful
+alegre			happy
+amable			kind
+agresivo		aggresive
+admirable		admirable
+antipático		unpleasant
+aburrido		boring
+atrevido		daring/bold
+vientos fuertes		strong winds
+delicado		delicate
+económico		economic
+es estúpido		it's stupid
+fresco			fresh
+fiel			faithful
+brillante		bright
+obediente		obedient
+sabio			wise
+saludable		healthy
+cálido			warm
+inteligente		intelligent
+bastante		enough
+apenas			barely/hardly
+así			this way
+así como		as well as/just like
+aprisa			quickly
+más aprisa		faster
+menos aprisa		less quick
+menos			less/minus/least
+bien hablado		well spoken
+poco			little
+por poco		nearly
+dentro			inside
+dentro de		inside
+encima			on top of
+encima de		on top of
+allí			there (medium distance)
+allá			there (far away)
+adelante		come in
+más adelante		later on
+a la par		next to/at same time
+lado			side
+costado			side
+afuera			outside
+fuera			outside
+fuera de		out of
+comer afuera		to eat out
+junto			together/next to
+atrás			behind
+detrás 			behind
+abajo			under
+debajo			under
+arriba			up
+alrdedor		around
+delante			in front of
+enfrente		in front
+muy			very
+demasiado		too much
+una infinidad		an infinity
+más débiles		weaker
+más enojado		angrier
+casi			almost
+a todo escape		at full speed
+del todo		of all
+menos temprano		not too early
+más temprano		earlier
+mitad			half
+medio			half
+más pesadas		heavier
+cuanto antes		sooner
+tanto			so much
+tan			so/as
+nada			nothing
+mucho			much
+pronto			soon
+nunca			never
+jamás			never
+nunca jamás		never again
+ahora			now
+ahorita			now
+siempre			always
+antes			before
+entonces		then
+anteayer		day before yesterday
+todavía			yet
+ya			already/certainly
+después			after/afterwards
+después de		after
+en seguida		at once
+ayer tarde		yesterday afternoon
+ayer por la tarde	yesterday afternoon
+a menudo		often
+a veces			sometimes
+antes de		before
+aún			even/yet/still
+anoche			last night
+desde			since/from
+en breve		soon/in a moment
+luego			then
+hace meses		months ago
+hace mes		months ago
+mientras tanto		meanwhile
+mientras		while
+menos temprano		not too early
+más temprano		earlier
+mańana por la mańana	tomorrow morning
+pasado mańana		day after tomorrow
+para siempre jamás	forever and ever
+cuanto antes		sooner
+certísimo		most certain
+novísimo		newest
+el lodazal		quagmire
+mujerona		big woman
+hombrón			big man
+mujerzuela		bad woman
+nińón			big kid
+capitolio		capitol
+sucio			dirty
+la lavadora		washing machine
+la aspiradora		vacuum cleaner
+limpiar			to clean
+el basurero		trash can
+el bote de basura	wastebasket
+el recogedor de basura	dustpan
+el sacudidor		dustcloth
+trapeador		mop
+trapeando		mopping
+los quehaceres		chores
+desordenado		untidy/messy
+dormitorio		bedroom
+enjuague la		rinse the...
+ensuciar		to get dirty/mess up
+limpie el		clean the...
+limpieza		cleaning
+fregona			mop
+barrer			to sweep
+las bolsas para basura	trash bags
+barnices		polishes
+ordenado		tidy
+plancha			iron
+planchar		to iron
+polvo			dust
+polvoriento		dusty
+suciedad		dirt
+cubo de la basura	trash can
+cepillar		to brush
+cuarto de bańo		bathroom
+los lentes		glasses
+anteojos		eyeglasses
+la bufanda		scarf
+la ropa interior	underwear
+los tacones		heels
+los chales		shawls
+la camisa de vestir	formal dress shirt
+boutique		boutique
+las pulseras		bracelets
+la computadora		computer
+la televisión		television
+la cámara		camera
+la fotografía		photograph
+el archivo		file
+el programa		program
+el robot		robot
+el aeropuerto		airport
+la hamburguesa		hamburger
+examinar		to examine
+el operador		operator
+el pasaporte		passport
+la reservación		reservation
+la terminal		terminal
+la cafetería		cafeteria
+la aerolínea		airline
+las instrucciones	instructions
+reservar		to reserve
+el internet		internet
+época			epoch/period of time
+cliente			client
+la intelligencia	intelligence
+el proyecto		project/plan
+la colección		collection
+viajar			travel
+visitar			to visit
+usar			to use
+la medicina		medicine
+visión			vision
+transportar		to transport
+el mecánico		mechanic
+el profesor		teacher
+el documento		document
+el examen		exam/test
+la sociedad		society
+aire acondicionado	air-conditioned
+la profesión		profession
+el vómito		vomit
+acelerador		accelerator
+antena			antenna
+área			area
+el aire			air
+acceso a internet	internet access
+general			general
+galón			gallon
+horror			horror
+detectar		to detect
+decisión		decision
+diesel			diesel
+desorganizar		to disorganize
+documento de identificación	identification document
+ética profesional	professional ethics
+es importante		it's important
+legal			legal
+fenómeno		phenomenon
+fotocopia		photocopy
+fluorescente		fluorescent
+formal			formal
+formato			format
+kilómetro		kilometer
+keroseno		kerosene
+kilo			kilo
+ofrecer			to offer
+organizar		to organize
+manual			manual
+personal		personal
+perparar		to prepare
+pasta			pasta
+revisión		revision
+recomendar		to recommend
+reducir			to reduce
+sitio de internet	internet site
+la página de internet	web-page
+el sitio web		web site
+simple			simple
+croissant		croissant
+una cámara digital	digital camera
+la clase		class
+coincidencia		coincidence
+control de acceso	access control
+champú			shampoo
+criminal		criminal
+cooperar		to cooperate
+la clase turista	tourist class
+la clase ejecutiva	executive class
+trampolín		trampoline
+transacción		transaction
+transmisión manual	manual transmission
+neutral			neutral
+negligencia		negligence
+náuseas			nauseas
+notificación		notification
+incluír			to include
+investigador		investigator
+indentificación		identification
+inocente		innocent
+el sofá			sofa
+el reloj		clock/watch
+abrir			to open
+abierto			open
+reparar			to repair
+cortar			to cut
+vacío			empty
+corriente		current
+el teclado		keyboard
+el monitor		monitor
+la computadora portátil	laptop computer
+la computadora de mesa	desktop computer
+las bocinas		speakers
+el correo electrónico	e-mail
+el grupo de charla	chat room
+pantalla		screen
+favorito		favorite/bookmark (internet)
+la página principal			homepage
+la página inicial			homepage
+programa de aplicaciones		application program
+proveedor de servicios de internet	ISP
+la barra de herramientas		toolbar
+controlador de la impresora		printer controller
+la contraseńa				computer password
+la dirección de una página web		web page address
+los elementos eliminados		trash/deleted items
+la dirección de correor electrónico	email address
+los mensajes no deseabos		spam
+la libreta de direcciones		address book
+las preferencias	preferences
+arrastrar		to drag (across screen)
+pegar			to drop (on screen)
+descargar		download
+el portapapeles		clipboard
+una actualización	an update
+el enlace		link (internet)
+la tarjeta de crédito	credit card
+bandeja de salida	outbox
+los elementos enviados	sent box
+los mensajes salientes	outgoing email
+los archivos adjuntos	attached files (email)
+la arroba		@
+el navegador		internet browser
+la firma digital	digital signature
+negrita			bold (computer)
+cursiva			italics
+el virus		virus
+apagado			extinguished/turned off
+el atajo		shortcut
+la carpeta		folder
+la batería		battery
+pila			battery
+borrar			to erase
+el borrador		eraser
+la impresora laser	laser printer
+apoyo			support
+respaldo		support
+almacenar		to store
+asunto			subject
+apagón			blackout
+adjuntar		to attach
+acceso compartido	shared access
+guardar como		save as
+gráficos		graphics
+gestionar		to negotiate
+vínculo			link
+volumen			volume
+destinatario		addressee
+dígito			digit
+directorio		directory
+disquete		diskette
+disco de sistema	system disk
+disco duro		hard drive
+disco			disk
+datos			data
+explorador de web	web explorer
+escáner			scanner
+fallo elétrico		electric failure
+fallo			decision/ruling/judgement
+fuera de servicio	out of service
+fondo			background
+unidad de disco		disk unit
+base de datos		data base
+borrado de archivos	deletion of files
+ordenar			to order
+ordenar por		order by
+opción por defecto	default option
+margen			margin
+monitor de color	color screen
+memoria virtual		virtual memory
+monocromo		monocromatic
+memoria			memory
+mesa de ayuda		help desk
+proveedor		provider
+paquete de aplicaciones	application package
+procesamiento de textos	text processor
+panel de control	control panel
+plantilla		template
+procesamiento en grupo	batch processing
+ranura de expansión	expansion slot
+responder a todos	respond to all
+reiniciar		to restart
+servidor de archivos	file server
+sistema			system
+seleccionar		to select
+soltar			to release
+subrayado		underlined
+sistema operativo	operating system
+sitio web seguro	secure website
+computación		computation
+conexión de redes	net connection
+corrector ortográfico	spell check
+cargador		battery charger
+contaminado		polluted
+copiar			to copy
+correo cifrado		encrypted mail
+cartucho		cartridge
+cortafuegos		firewall
+texto			text
+tipo			type
+tinta			ink
+imagen			image
+infectado		infected
+inicio			start
+empezar			start
+comenzar		start/commence
+instalar		to install
+icono			icon
+el marcador		marker
+el botón		button
+el vaso			glass
+la cuchara		spoon
+la cucharita		dessert spoon
+la taza			cup
+la ensalada		salad
+la copa			cup
+traer			to bring
+el fuego		fire
+la azafata		flight attendant
+el jugo			juice
+el anfitrión		host
+podría			would you be able
+podríamos		we would/could
+dijo			he/she said
+cobrar			to collect money/charge
+discúlpeme		excuse me
+perdón			pardon
+OK			OK
+repetir			to say again
+seńor			sir/Mr.
+seńora			lady/madam/Mrs.
+seńorita		miss
+pagar			to pay
+la etiqueta		ticket
+el billete		bill (money)
+el ingreso		revenue
+helado de chocolate	chocolate ice cream
+la bebida		drink
+té con crema y azúcar	tea with cream and sugar
+jugo de naranja		orange juice
+precio			price
+hipotecar		to mortgage
+perdóneme		forgive me/excuse me
+cotizar			to quote prices
+cortés			courteous
+quisiera		I would like
+lo siento		I'm sorry
+usted dijo		you said
+la policía		police
+el juez			judge
+el abogado		lawyer
+la ley			the law
+robar			to rob/steal
+el ladrón		thief
+forense			forensic
+investigar		to investigate
+el asalto		assault
+homicidio premeditado	premeditated murder
+la pandilla		gang
+el terrorista		terrorist
+juicio			trial
+jurisdicción		jurisdiction
+jurado			jury
+asesino			murderer/assassin
+arresto domiciliario	house arrest
+armado			armed
+alguacil		sheriff
+arrestar		to arrest
+

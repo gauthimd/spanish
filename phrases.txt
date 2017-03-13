@@ -12,6 +12,7 @@ Me llamo				I call myself
 Buenos dias				Good day
 Buenas tardes				Good afternoon
 Buenas noches				Good night
+nos vemos pronto			see you soon
 Hasta pronto				See you soon
 Hasta luego				See you later
 Hasta mańana				See you tomorrow
@@ -126,3 +127,9 @@ Entre					Come in
 Quieres algo para tomar?		Do you want something to drink?
 Quieres algo para comer?		Do you want something to eat?
 Dame un beso				Give me a kiss
+de bien a mejor				better and better
+poco hecho				rare
+bien hecho				well done
+poco cocido				rare
+bien cocido				well done
+bien asada				well done
