@@ -1,0 +1,598 @@
+sí			yes
+no			no
+quién			who
+qué			what
+dónde			where
+cuándo			when
+por qué			why
+cuál			which
+cómo			how
+o			or
+a			to
+de			from
+y			and
+para			for
+pero			but
+cuánto			how much
+este(a)			this
+ese			that
+con			with
+más			more
+dia			day
+la tarde		afternoon/evening
+noche			night
+temprano		early
+tarde			late
+aquí			here
+hoy			today
+ayer			yesterday
+mańana			morning
+tienes			do you have
+ahí			there
+algo			something
+domingo			Sunday
+lunes			Monday
+martes			Tuesday
+miércoles		Wednesday
+jueves			Thursday
+viernes			Friday
+sábado			Saturday
+enero			January
+febrero			February
+marzo			March
+abril			April
+mayo			May
+junio			June
+julio			July
+agosto			August
+septiembre		September
+octubre			October
+noviembre		November
+diciembre		December
+invierno		winter
+primavera		spring
+verano			summer
+otońo			fall
+colores			colors
+colorido		colorful
+negro			black
+blanco			white
+gris			gray
+grisear			to become gray
+rojo			red
+encarnado		red
+colorado		red
+bordo			burgundy
+fucsia			fuchsia
+cyan			cyan
+azul			blue
+azul marino		navy blue
+celeste			light blue
+amarillo		yellow
+amarillo pálido		light yellow
+verde			green
+naranja			orange
+purpura			purple
+morado			purple
+violeta			violet
+crema			cream
+rosado			pink
+marrón			brown
+café 			dark brown
+lila			lavander, lilac
+turquesa		turquoise
+plateado		silver
+dorado			gold
+oro			gold
+oscuro			dark
+claro			clear
+la almendra		almond
+la manzana		apple
+el albaricoque		apricot
+la alcochofa		artichoke
+el espárrago		asparagus
+el aguacate		avocado
+el plátano		banana
+la albahaca		basil	
+la judía		bean
+la zarzamora		blackberry
+el brécol		broccoli
+el bretón		Brussels sprouts
+el repollo		cabbage
+el melón		cantaloupe
+el comino		cumin
+la zanahoria		carrot
+la coliflor		cauliflower
+el apio			celery
+la cereza		cherry
+la castańa		chestnut
+el maíz			corn
+el arándano		cranberry
+el pepino		cucumber
+el datíl		date
+el eneldo		dill
+el higo			fig
+el ajo			garlic
+la uva			grape
+las judías verde	green beans
+el guisante		green peas
+el pimiento		green pepper
+el rábano picante	horse radish
+el limón		lemon
+la lenteja		lentil
+el mango		mango
+la seta			mushroom
+la nuez			nut
+la naranja		orange
+el perejil		parsley
+el melocotón		peach
+la pera			pear
+la pimienta		pepper
+la pińa			pineapple
+la ciruela		plum
+la patata		potato
+la calabaza		pumpkin
+el rábano		radish
+la frambuesa		raspberry
+el ruibarbo		rhubarb
+la espinaca		spinach
+la fresa		strawberry
+la mandarina		tangerine
+el tomate		tomato
+la trufa		truffle
+la sandía		water melon
+el albornoz		bathrobe
+el cinturón		belt
+la blusa		blouse
+las botas		boots
+los bóxers		boxers
+el gorro		cap
+el abrigo		coat	
+el vestido		dress
+los guantes		gloves
+el sombrero		hat	
+la chaqueta		jacket
+los jeans		jeans
+los vaqueros		jeans
+la minifalda		miniskirt
+la pijama		pajamas
+los pantalones		pants
+el bolsillo		pocket
+el bolso		purse
+el impermeable		raincoat
+la sandalia		sandal
+la camisa		shirt
+el zapato		shoe
+los pantalones cortos	shorts
+el short		shorts
+la falda		skirt
+la zapatilla		slipper
+el calcetín		sock
+la media		stocking
+el traje		suit	
+el suéter		sweater
+el pulóver con capucha	sweatshirt with hood
+el bańador		swimsuit
+el traje de bańo	swimsuit
+el perro		dog
+el pájaro		bird
+el caballo		horse
+el ráton		mouse
+el conejo		rabbit
+el elefante		elephant
+el tigre		tiger
+la liebre		hare
+el colibrí		hummingbird
+el pez			fish
+la jirafa		giraffe
+el león			lion
+la pecera		fish bowl
+el mono			monkey
+el águila		eagle
+el oso			bear
+la foca			seal
+el murciélago		bat
+el canguro		kangaroo
+la cebra		zebra	
+el búho			owl
+el gallo		rooster
+el pavo			turkey
+el tiburón		shark
+el avestruz		ostrich
+la jaula		cage
+el halcón		hawk
+el puma			puma
+la langosta		lobster
+el cachorro		puppy
+la paloma		pigeon
+la rana			frog
+el veterinario		veterinarian
+el zoológico		zoo
+la iguana		iguana
+las aves		birds
+el burro		donkey
+el hipopótamo		hippopotamus
+la ballena		whale
+el canario		canary
+el zorro		fox
+el rebańo		flock
+el collar de perro	dog collar
+la jungla		jungle
+el cangrejo		crab
+el delfín		dolphin
+la anguila		eel
+la medusa		jellyfish
+el pingúíno		penguin
+caballito de mar	seahorse
+la tortuga		turtle
+el reno			reindeer
+el conejito		bunny
+las pieles		skins
+el sebo			tallow
+pez gato		catfish
+salmón			salmon
+salmón ahumado		smoked salmon
+camarones		shrimp
+ostra			oysters
+almejas			clams
+mejillones		mussels
+trucha			trout
+el animal doméstico	domestic animal
+acariciar		to pet
+la comida de animales	pet food
+la correa		leash
+el gato			cat
+ave 			bird
+la gaviota		seagull
+gorila			gorilla
+ladrar			to bark
+lagartos		lizards
+fosa			pit
+fauna			fauna
+las ovejas		sheep
+hamster			hamster
+macho			male
+maullar			to meow
+perca			perch
+panda			panda
+el perro guía		guide dog
+pez dorado		goldfish
+camellos		camels
+caimanes		alligators
+ciervo			deer
+toro			bull
+la serpiente		snake
+dragones		dragons
+faisán			pheasant
+el cabello		hair
+la mano			hand
+el dedo			finger
+los dedos		fingers
+la uńa			fingernail
+las uńas		fingernails
+el codo			elbow
+el hueso		bone
+los ojos		eyes
+el pelo			hair
+la nariz		nose
+las pantorrillas	calves
+el dedo del pie		toe
+la pierna		leg
+el estómago		stomach
+los abdominales		abdominal muscles
+los hombros		shoulders
+las muńecas		wrists
+los antebrazos		forearms
+el brazo		arm
+los codos		elbows
+el pie			foot
+los pies		feet
+las piernas		legs
+la rodilla		knee
+las rodillas		knees
+el esqueleto		skeleton
+la espalda		shoulderblade
+la arteria		artery
+la cadera		hip
+los huesos		bones
+el ombligo		navel
+la tibia		tibia
+la vena			vein
+alergia			allergy
+legumbres		pulse
+prótesis		prosthesis
+granos			pimples
+piel			skin
+sangre			blood
+la cintura		waist
+el tobillo		ankle
+las venas		veins
+el pecho		chest
+presión			pressure
+la garganta		throat
+dolor en el pecho	chest pain
+el muslo		thigh
+parálisis		paralysis
+sintiendo		feeling
+la costilla		rib
+el cuello		neck
+el talón		heel
+el cuerpo		body
+afortunadamente		fortunately
+desafortunadamente	unfortunately
+lamentablemente		unfortunately
+solamente		only
+mayormente		especially
+hermosamente		beautifully
+constantemente		constantly
+cuidadosamente		carefully
+últimamente		lately
+únicamente		solely
+detenidamente		fully
+próximamente		soon
+repentinamente		suddenly
+decididamente		decidedly
+vivamente		vividly
+excelentemente		excellently
+cortésmente		politely
+amablemente		politely
+anteriormente		previously
+virtualmente		virtually
+lentamente		slowly
+frecuentemente		frequently
+alegremente		happily
+aproximadamente		approximately
+actualmente		currently
+admirablemente		admirably
+débilmente		weakly
+diligentemente		diligently
+dulcemente		sweetly
+extremadamente		extremely
+ligeramente		lightly
+fácilmente		easily
+felizmente		happily
+fuertemente		strongly
+brillantemente		brightly
+ocasionalmente		occasionally
+puntualmente		promptly
+pobremente		poorly
+rápidamente		quickly
+sumamente		very
+completamente		completely
+tranquilamente		quietly
+tristemente		sadly
+totalmente		totally
+temporalmente		temporary
+nuevamente		again
+usualmente		usually
+regularmente		regularly
+la loción		lotion
+el cepillo		brush
+la toalla		towel
+las toallas		towels
+el lavamanos		sink
+el espejo		mirror
+la ducha		shower
+la esponja		sponge
+la cubeta		bucket
+el jabón		soap
+el lavado		wash/washing
+el tocador		dressing table
+la bańera		bath tub
+la escala		scale
+el vapor		steam
+enjuague bucal		mouthwash
+el esmalte		polish
+la casa			house
+la calle		street
+lejos			far
+cerca			close/near
+el restaurante		restaurant
+el hotel		hotel
+el agua			water
+la tienda		store/shop
+la estación		bus/train station
+el taxi			taxi
+el aeropuerto		airport
+el mapa			map
+la familia		family
+seguir			to follow/continue/pursue
+la aduana		customs
+el equipaje		luggage
+la terminal		terminal
+la brújula		compass
+el autobús		bus
+la carreterra		road/highway
+el letrero		sign
+la esquina		corner
+llegar			to arrive
+perder			to lose
+sur			south
+la hora			the hour
+buscar			to look/search for
+busco			I look/search for
+estar			to be
+tomar			to take
+libre			free
+la dirección		address
+enseńar			to teach/show
+bajar			to lower/go down
+la compańia de ferrocarril	railway company
+a la derecho		to the right
+a la izquierda		to the left
+yo sigo			I follow
+llevar			to take/carry/wear
+¿adónde?		to where?
+¿de dónde?		from where?
+el atajo		shortcut
+cuadra			block
+prolongación		continuation
+salida			exit
+voltear			to turn/toss
+vuelta			turn
+giro			turn
+girar			to turn
+el museo		museum
+el mercado		market
+el cruce		intersection
+el zócalo		main square
+cercano			close/near
+el ascensor		elevator
+el carril		lane
+decir			to say
+de aquí			from here
+doblar			to bend/turn
+el derecho de paso	right of way
+zona			zone
+el paradero de autobuses	bustop
+encontrar		to find
+lejos de		far from
+luz de giro		turn signals
+larga distancia		long distance
+el último		last
+poder			to be able
+perderse		to get lost
+él/ella sale		he/she goes out
+semáforo		traffic light
+seńal			sign
+cerca de		near to
+cambiar			to change/alter
+transporte público	public transportation
+la tienda libre de impuestos	duty free store
+ilegal			illegal
+el horario		schedule
+el carro		car
+los carros		cars
+la ciudad		city
+usted sale		you go out
+el hospital		hospital
+el cine			cinema/movie theater
+el supermercado		supermarket
+el parque		park
+la piscina		pool
+la iglesia		church
+la biblioteca		library
+la mansión		mansion
+la universidad		university
+la fuente		fountain/source
+la torre		tower
+el teatro		theater
+el tren			train
+la farmacia		pharmacy/drugstore
+la discoteca		club
+el banco		bank
+la zapatería		shoe store
+la floristería		flower store
+el edificio		building
+el vecino		neighbor
+el vecindario		neighborhood
+el barrio		neighborhood
+el tráfico		traffic
+la acera		sidewalk
+el estadio		stadium
+la joyería		jewelry shop
+la oficina		office
+el casino		casino
+la tienda de ropa	clothing store
+la oficina postal	post office
+correos			mail/post office
+los apartamentos	apartments
+arquitectónica		achitectural
+la avenida		avenue
+el café			cafe
+el estacionamiento	parking lot
+la librería		bookstore
+el poste de luz		streetlight
+el centro comercial	shopping mall
+la panadería		bakery
+el planetario		planetarium
+el rascacielos		skyscraper
+el palacio		palace
+la fábrica		factory
+la capital		capital
+el ejército		army
+la costumbre		custom
+el distrito		district
+el diseńo		design
+la plaza		market place/square
+centro médico		medical center
+lavandería		laundry
+el quiosco de periódicos	newsstand
+el atasco		traffic jam
+la embajada		embassy
+centro			downtown
+ayuntamiento		townhall/cityhall
+los bańos públicos	public bathrooms
+la peatona		pedestrian
+pilar			column
+cuadras			blocks/squares
+la acerca		sidewalk
+cargar			to load/carry/charge
+la pared		wall
+la puerta		door/gate
+el camión		truck
+la caja			box
+la llave		key
+el plano		plan
+el clavo		nail
+el martillo		hammer
+la escalera		ladder
+poner			to put
+pintar			to paint
+trabajar		to work
+el trabajo		job/work
+subir			to climb/rise/come up
+la luz			light
+la huelga		worker strike
+los soportes		bearings
+el tornillo		screw
+los tornillos		screws
+atornillar		to screw
+destornillador		screwdriver
+los patronos		masters/bosses
+sobrecargarse		to overload oneself
+las herramientas	tools
+la caja de herramientas	toolbox
+el obrero		workman
+turno			workshift
+tirar			to throw
+instalación		installation
+las chapas		plates
+el taller		workshop
+el piso			floor
+el techo		roof/ceiling
+construir		to build
+la electricidad		electricity
+apilar			to pile up
+amarrar			to tie up
+alambre			wire
+de madera		wood
+descargar		to unload
+zócalo			baseboard
+extintor		fire extinguisher
+exterior		exterior
+estrategia del lugar	place strategy
+espacial		spacial	
+levantar		to rise up/lift up
+legar de trabajo	workplace
+barrer			to sweep
+obra nueva		new build
+obrero calificado	qualified worker
+material		material
+permiso de trabajo	work permit
+renovar			renew
+restauración		restoration
+rigidez			rigidity
+construyo		I build
+construí		I built
+construyendo		building
+constructor		builder
+nosotros construimos	we build
+conectar		to connect
+cemento			concrete
+trapo			rag
+trabajador estacional	seasonal worker
+cada			each/every
+todo			everything
+la mierda		shit
+el culo			ass

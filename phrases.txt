@@ -1,0 +1,128 @@
+Como esta(s)?				How are you? Formal(Informal)
+Estoy bien				I'm fine
+Gracias					Thank you
+De nada					You're welcome
+Y usted?				And you? Formal
+Y tu?					And you? Informal
+Mucho gusto				Nice to meet you
+¿Como se llama?				What's you're name? Formal
+¿Como te llamas?			What's your name? Informal
+Mi nombre es				My name is
+Me llamo				I call myself
+Buenos dias				Good day
+Buenas tardes				Good afternoon
+Buenas noches				Good night
+Hasta pronto				See you soon
+Hasta luego				See you later
+Hasta mańana				See you tomorrow
+Adiós					Goodbye
+Te extrańo				I miss you
+Yo tambien				Me too
+Qué estás haciendo?			What are you doing?
+Nada					Nothing
+Estas ocupado/a?			Are you busy?
+Sí, estoy ocupado/a			Yes, I'm busy
+Estas libre?				Are you free?
+Si, estoy libre?			Yes, I'm free
+Tengo hambre				I'm hungry
+Tengo sed				I'm thirsty
+Vamos a comer				Let's eat
+Dondé vive?				Where do you live? Formal
+Dondé vives?				Where do you live? Informal
+Vivo en los Estados Unidos		I live in the United States
+Qué esta(s) estudiando?			What are you studying?
+Comó esta su familia?			How's your family? Formal
+Comó esta tu familia?			How's your family? Informal
+Muy bien				Very good
+Muy mal					Very bad
+Quiere(s) comer?			Do you want to eat?
+Cual es su/tu numero de telefono?	What's your phone number?
+Me llama(s)				Call me
+Le/Te llamaré				I'll call you
+Vamos a salir				Let's go out
+Que quiere(s) hacer?			What do you want to do?
+Como fue su/tu dia?			How was your day?
+Mi dia fue bien				My day went fine
+Esta delicioso				It's delicious
+Quiero mas por favor			I want more please
+Quiero menos				I want less
+Esta bien				It's fine
+Gracias por la comida			Thanks for you food
+Le puedo ayudar?			May I help you?
+Me puede(s) ayudar?			Can you help me?
+Te ayudare				I'll help you
+Gracias por su/tu ayuda			Thanks for your help
+Qué está(s) pensando?			What are you thinking about?
+Llege temprano				I arrived early
+Llege tarde				I arrived late
+Estoy cansado/a				I'm tired
+Tengo sueńo				I'm sleepy
+Me voy a dormir				I'm going to sleep
+Tengo tarea				I have homework
+Esta facil				It's easy
+Esta dificil				It's difficult
+¿Dónde está el bańo?			Where's the restroom?
+Por ahí					Over there
+Ven aquí				Come here
+Cuántos hermanos tiene(s)?		How many siblings do you have?
+Perdon					I'm sorry
+Que tenga(s) un buen dia!		Have a nice day!
+Usted tambien				You too. Formal
+Tu tambien				You too. Informal
+Comó se dice en Espańol...		How do you say in Spanish...
+Entiendo				I understand
+No entiendo				I don't understand
+Entiende(s)?				Do you understand?
+¿Qué hay para comer?			What's there to eat?
+¿Qué hay para tomar?			What's there to drink?
+¿Cuánto cuéstra?			How much does it cost?
+¿Tienes que ir al bańo?			Do you have to go to the bathroom?
+¿Qué hicistes hoy?			What did you do today?
+¿Qué hicistes ayer?			What did you do yesterday?
+?Qué hicistes esta mańana?		What did you do this morning?
+Que bonito/a!				How beautiful!
+¿Que dice(s)?				What are you saying?
+Le/Te gusto?				Did you like it?
+Me gusta				I like it
+Quieres un poco?			Do you want some?
+Estoy practicando mi espańol		I'm practicing my spanish
+Pienso que sí				I think so
+Pienso que no				I don't think so
+Buena idea				Good idea
+De dondé viene(s)?			Where are you from?
+Vengo de...				I come from...
+Necesito ayuda				I need help
+Que genial!				How cool!
+Buen trabajo				Good job
+Me tengo que ir				I have to go
+Que sorpresa!				What a surprise!
+Quiero ir ahi				I want to go there
+Es un placer				It's a pleasure
+Bienvenido/a				Welcome
+¡Buena suerte!				Good luck!
+Cuánto tiempo!				Long time no see!
+Por favor hable más despacio		Please speak more slowly
+Habla Ingles?				Do you speak English?
+Si, un poco				Yes, a little
+Puede escribirlo, por favor?		Can you please write it?
+Que te mejores				Get well soon
+Feliz Ańo Nuevo!			Happy New Year!
+Feliz cumpleańos!			Happy Birthday!
+Que paso?				What happened?
+Que esta pasando?			What's happening?
+Me gustas				I like you
+Quien te gusta?				Who do you like?
+Lo puede(s) creer?			Can you believe it?
+No lo puede creer			I can't believe it
+Es un bonito dia			It's a beautiful day
+Es un dia lluvioso			It's a rainy day
+Esta soliado				It's sunny
+Esta nublado				It's cloudy
+Esta nevando				It's snowing
+Esta lloviendo				It's raining
+Por favor sientese			Please sit down
+Entre					Come in
+¿Como le puedo ayudar?			How may I help you?
+Quieres algo para tomar?		Do you want something to drink?
+Quieres algo para comer?		Do you want something to eat?
+Dame un beso				Give me a kiss
