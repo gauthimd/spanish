@@ -23,8 +23,8 @@ la tarde		afternoon/evening
 noche			night
 temprano		early
 tarde			late
-aquí			here
-acá			here
+aquí			here 1
+acá			here 2
 hoy			today
 ayer			yesterday
 mańana			morning
@@ -60,9 +60,9 @@ negro			black
 blanco			white
 gris			gray
 grisear			to become gray
-rojo			red
-encarnado		red
-colorado		red
+rojo			red 1
+encarnado		red 2
+colorado		red 3
 bordo			burgundy
 fucsia			fuchsia
 cyan			cyan
@@ -73,8 +73,8 @@ amarillo		yellow
 amarillo pálido		light yellow
 verde			green
 naranja			orange
-purpura			purple
-morado			purple
+purpura			purple 1
+morado			purple 2
 violeta			violet
 crema			cream
 rosado			pink
@@ -83,8 +83,8 @@ café 			dark brown
 lila			lavander, lilac
 turquesa		turquoise
 plateado		silver
-dorado			gold
-oro			gold
+dorado			gold 1
+oro			gold 2
 oscuro			dark
 claro			of course/clear
 las frutas		fruits
@@ -94,9 +94,10 @@ el albaricoque		apricot
 la alcochofa		artichoke
 el espárrago		asparagus
 el aguacate		avocado
-el plátano		banana
+el banano		banana
+el plátano		plantain/banana
 los bananos		bananas
-la albahaca		basil	
+la albahaca		basil
 la judía		bean
 la zarzamora		blackberry
 el brécol		broccoli
@@ -153,13 +154,13 @@ la blusa		blouse
 las botas		boots
 los bóxers		boxers
 el gorro		cap
-el abrigo		coat	
+el abrigo		coat
 el vestido		dress
 los guantes		gloves
-el sombrero		hat	
+el sombrero		hat
 la chaqueta		jacket
-los jeans		jeans
-los vaqueros		jeans
+los jeans		jeans 1
+los vaqueros		jeans 2
 la minifalda		miniskirt
 la pijama		pajamas
 los pantalones		pants
@@ -171,19 +172,19 @@ la sandalia		sandal
 la camisa		shirt
 el zapato		shoe
 los zapatos tenis	sneakers
-los pantalones cortos	shorts
-el short		shorts
+los pantalones cortos	shorts 1
+el short		shorts 2
 la falda		skirt
 la zapatilla		slipper
 las pantuflas		slippers
 el calcetín		sock
 los calcetínes		socks
 la media		stocking
-el traje		suit	
+el traje		suit
 el suéter		sweater
 el pulóver con capucha	sweatshirt with hood
-el bańador		swimsuit
-el traje de bańo	swimsuit
+el bańador		swimsuit 1
+el traje de bańo	swimsuit 2
 el perro		dog
 el pájaro		bird
 el caballo		horse
@@ -203,7 +204,7 @@ el oso			bear
 la foca			seal
 el murciélago		bat
 el canguro		kangaroo
-la cebra		zebra	
+la cebra		zebra
 el búho			owl
 el gallo		rooster
 el pavo			turkey
@@ -219,7 +220,8 @@ la rana			frog
 el veterinario		veterinarian
 el zoológico		zoo
 la iguana		iguana
-las aves		birds
+el ave 			bird
+los aves		birds
 el burro		donkey
 el hipopótamo		hippopotamus
 la ballena		whale
@@ -243,7 +245,7 @@ pez gato		catfish
 salmón			salmon
 salmón ahumado		smoked salmon
 camarones		shrimp
-ostra			oysters
+las ostras		oysters
 almejas			clams
 mejillones		mussels
 trucha			trout
@@ -252,13 +254,12 @@ acariciar		to pet
 la comida de animales	pet food
 la correa		leash
 el gato			cat
-ave 			bird
 la gaviota		seagull
 gorila			gorilla
 ladrar			to bark
 lagartos		lizards
-fosa			pit
-fauna			fauna
+la fosa			pit
+la fauna		fauna
 las ovejas		sheep
 hamster			hamster
 macho			male
@@ -268,13 +269,14 @@ panda			panda
 el perro guía		guide dog
 pez dorado		goldfish
 camellos		camels
-caimanes		alligators
+el caimán		alligator
+los caimanes		alligators
 ciervo			deer
 toro			bull
 la serpiente		snake
 dragones		dragons
 faisán			pheasant
-el cabello		hair
+el cabello		hair 1
 la mano			hand
 el dedo			finger
 los dedos		fingers
@@ -283,7 +285,7 @@ las uńas		fingernails
 el codo			elbow
 el hueso		bone
 los ojos		eyes
-el pelo			hair
+el pelo			hair 2
 la nariz		nose
 las pantorrillas	calves
 el dedo del pie		toe
@@ -585,7 +587,7 @@ zócalo			baseboard
 extintor		fire extinguisher
 exterior		exterior
 estrategia del lugar	place strategy
-espacial		spacial	
+espacial		spacial
 levantar		to rise up/lift up
 legar de trabajo	workplace
 barrer			to sweep
