@@ -3,15 +3,15 @@ import random, time
 d = dict()
 n = 0
 for line in open('words.txt', 'r'):
-  if n < 200: 
+  if n <1100: 
 #    var = line.split('\t')
 #    d[var[len(var)-1]] = var[0]
     n += 1	
-  elif n in range(200,300):
+  else:
     var = line.split('\t')
     d[var[len(var)-1]] = var[0]
     n += 1
-  else: break
+#  else: break
 print 'Number of words: ' + str(len(d))
 y = 1
 for x in d:

@@ -186,7 +186,7 @@ el pulóver con capucha	sweatshirt with hood
 el bańador		swimsuit 1
 el traje de bańo	swimsuit 2
 el perro		dog
-el pájaro		bird
+el pájaro		bird 1
 el caballo		horse
 el ráton		mouse
 el conejo		rabbit
@@ -220,7 +220,7 @@ la rana			frog
 el veterinario		veterinarian
 el zoológico		zoo
 la iguana		iguana
-el ave 			bird
+el ave 			bird 2
 los aves		birds
 el burro		donkey
 el hipopótamo		hippopotamus
@@ -331,10 +331,10 @@ el cuello		neck
 el talón		heel
 el cuerpo		body
 afortunadamente		fortunately
-desafortunadamente	unfortunately
-lamentablemente		unfortunately
-solamente		only
-sólo			only
+desafortunadamente	unfortunately 1
+lamentablemente		unfortunately 2
+solamente		only 1
+sólo			only 2
 mayormente		especially
 hermosamente		beautifully
 constantemente		constantly
@@ -343,13 +343,13 @@ cuidadosamente		carefully
 únicamente		solely
 detenidamente		fully
 próximamente		soon
-repentinamente		suddenly
-de repente		suddenly
+repentinamente		suddenly 1
+de repente		suddenly 2
 decididamente		decidedly
 vivamente		vividly
 excelentemente		excellently
-cortésmente		politely
-amablemente		politely
+cortésmente		politely 1
+amablemente		politely 2
 anteriormente		previously
 virtualmente		virtually
 lentamente		slowly
@@ -423,7 +423,6 @@ llegar			to arrive
 perder			to lose
 sur			south
 la hora			the hour
-buscar			to look/search for
 busco			I look/search for
 estar			to be
 tomar			to take
@@ -470,7 +469,6 @@ perderse		to get lost
 semáforo		traffic light
 seńal			sign
 cerca de		near to
-cambiar			to change/alter
 transporte público	public transportation
 la tienda libre de impuestos	duty free store
 ilegal			illegal
@@ -1038,7 +1036,6 @@ tinta			ink
 imagen			image
 infectado		infected
 inicio			start
-empezar			start
 comenzar		start/commence
 instalar		to install
 icono			icon
@@ -1101,5 +1098,105 @@ asesino			murderer/assassin
 arresto domiciliario	house arrest
 armado			armed
 alguacil		sheriff
+el verbo		verb
 arrestar		to arrest
-
+ser 			to be (permanent)
+estar			to be (temp/location)
+tener			to have
+hacer			to do/make
+poder			to be able to (can)
+decir			to say/tell
+ir			to go
+ver			to see
+dar			to give
+comer			to eat
+saber			to know (info)
+querer			to want
+llegar			to arrive/come/reach
+pasar			to pass/spend time/to happen
+deber			to owe/must/shout/ought to
+poner			to put/place/set
+parecer			to seem/appear
+quedar			to stay/remain
+creer			to believe
+hablar			to speak
+llevar			to carry/bring
+dejar			to leave/abandom/to let/allow
+seguir			to follow/continue
+encontrar		to find/encounter
+llamar			to call/to name
+venir			to come
+pensar			to think
+salir			to leave/go out
+volver			to return/go back
+tomar			to take/drink
+conocer			to know (people/places)
+vivir			to live
+sentir			to feel/regret
+tratar			to treat/handle
+mirar			to watch/look at
+contar			to count/relate/tell
+empezar			to begin/start
+esperar			to wait for/to hope
+buscar			to search for/look for
+existir			to exist
+entrar			to enter/go in/come in
+trabajar		to work
+escribir		to write
+perder			to lose
+producir		to produce
+ocurrir			to occur/happen
+entender		to understand
+pedir			to request/ask for
+recibir			to receive/to welcome/greet
+recordar		to remember/remind
+terminar		to finish/end
+permitir		to permit/allow
+aparecer		to appear/show up
+conseguir		to get/obtain
+comenzar		to begin/start/commence
+servir			to serve
+sacar			to take out/stick out
+necesitar		to need/require
+mantener		to maintain/get
+resultar		to turn out (to be)
+leer			to read
+caer			to fall
+cambiar			to change/alter
+presentar		to introduce
+crear			to create/to make
+abrir			to open
+considerar		to consider
+oír			to hear
+acabar			to finish/end
+convertir		to convert/change
+ganar			to win/gain/earn/get/acquire
+formar			to form/shape/fashion/make
+traer			to bring/to get/fetch/to carry
+partir			to divide/to leave
+morir			to die
+aceptar			to accept/approve/to agree to
+realizar		to achieve/attain/accomplish
+suponer			to suppose
+comprender		to understand/comprehend
+lograr			to get/obtain/to achieve/attain
+explicar		to explain
+preguntar		to ask/inquire
+tocar			to touch/to play (instrument)
+reconocer		to recognize
+estudiar		to study
+alcanzar		to reach/catch up
+nacer			to be born
+dirigir			to direct
+correr			to run
+utilizar		to use/utilize
+pagar			to pay/pay for
+ayudar			to help
+gustar			to please/be pleasing
+jugar			to play (game/sport)
+escuchar		to listen/hear
+cumplir			to fulfil/carry out
+ofrecer			to offer
+descubrir		to discover
+levantar		to raise/to lift
+intentar		to try/attempt

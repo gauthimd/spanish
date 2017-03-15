@@ -1,56 +1,148 @@
-Present Tense
-ser - to be (perm)
-yo soy
-tú eres
-él es
-nosotros somos
-ustedes sois
-ellos son
+PRESENT TENSE
+yo		I
+tú		you
+el/ella/es	he/she/it
+nosotros	we
+ustedes		you all (formal)
 
-estar - to be (temp)
-yo estoy
-tú estás
-él está
-nosotros estamos
-ustedes esáis
-ellos están
+regular -ar verbs:
+o
+as
+a
+amos
+an
 
-haber - to have to do
-yo he
-tú has
-él ha(y)
-nosotros hemos
-ustedes habéis
-ellos han
+regular -er verbs:
+o
+es
+e
+emos
+en
 
-tener - to have
-yo tengo
-tú tienes
-él tiene
-nosotros tenemos
-ustedes tenéis
-ellos tienen
+regular -ir verbs:
+o
+es
+e
+imos
+en
 
-hacer - to do/make
-yo hago
-tú haces
-él hace
-nosotros hacemos
-ustedes hacéis
-ellos hacen
+estar		ser
+estoy		soy
+estás		eres
+está		es
+estamos		somos
+están		son
 
-poder - to be able/can
-yo puedo
-tú puedes
-él puede
-nosotros podemos
-ustedes podéis
-ellos pueden
+some -ir verbs stem change the e:i in all conj except nosotros
+pedir 		to ask for/to order
+pido
+pides
+pide
+pedimos
+piden
 
-decir - to say/tell
-yo digo
-tú dices
-él dice
-nosotros decimos
-ustedes decís 
-ellos dicen
+other common e:i stem changing verbs:
+competir	to compete
+concebir	to conceive
+despedir	to fire
+impedir		to impede
+medir		to measure
+reńir		to scold/quarrel
+repetir		to repeat
+servir		to serve
+teńir		to color/dye/stain
+vestir		to dress
+
+some verbs of all three types change stem e:ie in all conj but nosotros
+cerrar		to close
+cierro
+cierras
+cierra
+cerramos
+cierran
+
+other common e:ie stem changing verbs:
+acertar		to manage to
+advertir	to alert
+atender		to attend to
+atravesar	to cross
+calentar	to heat
+comenzar	to begin
+confesar	to confess
+convertir	to convert
+defender	to defend
+despertar	to wake up
+divertir	to amuse
+empezar		to begin
+encender	to light
+entender	to understand
+enterrar	to bury
+fregar		to scrub
+herir		to injure
+hervir		to boil
+mentir		to lie
+merendar	to have lunch
+negar		to deny
+pensar		to think
+querer		to want
+regar		to water
+sugerir		to suggest
+temblar		to tremble
+tender		to stumble on
+verter		to spill
+
+some verbs of all three types change stem o:ue in all conj but nosotros
+contar
+cuento
+cuentas
+cuenta
+contamos
+cuentan
+
+other common o:ue stem changing verbs
+acordar 	to agree/decide
+acostar		to put to bed
+almorzar	to eat lunch
+aprobar		to approve
+colgar		to hang
+contar		to count/to tell
+costar		to cost
+demostrar	to demonstrate/prove
+devolver	to return an object
+dormir		to sleep
+encontrar	to find
+envolver	to wrap
+forzar		to force
+morder		to bite
+morir		to die
+mostrar		to show
+mover		to move an object/to motivate
+poder		to be able to
+probar		to test/taste
+recordar	to remember
+resolver	to solve
+rogar		to beg/pray
+soler		to be in the habit of
+sonar		to sound/ring
+sońar		to dream
+tostar		to toast
+volar		to fly
+volver		to return
+
+irregular verbs 'ir' and 'dar'
+ir	to go		dar	to give/to have
+voy			doy
+vas			das
+va			da
+vamos			damos
+van			dan
+
+irregular verbs 'tener' and 'venir'
+tener	to have		venir	to come
+tengo			vengo
+tienes			vienes
+tiene			viene
+tenemos			venimos
+tienen			vienen
+
+PRETERITE TENSE
