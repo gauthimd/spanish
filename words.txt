@@ -17,6 +17,7 @@ cuánto			how much
 este(a)			this
 ese			that
 con			with
+sobre			about
 más			more
 dia			day
 la tarde		afternoon/evening
@@ -355,6 +356,7 @@ virtualmente		virtually
 lentamente		slowly
 frecuentemente		frequently
 alegremente		happily
+felizmente		happily 2
 aproximadamente		approximately
 actualmente		currently
 admirablemente		admirably
@@ -364,7 +366,6 @@ dulcemente		sweetly
 extremadamente		extremely
 ligeramente		lightly
 fácilmente		easily
-felizmente		happily
 fuertemente		strongly
 brillantemente		brightly
 ocasionalmente		occasionally
@@ -414,14 +415,22 @@ seguir			to follow/continue/pursue
 la aduana		customs
 el equipaje		luggage
 la terminal		terminal
-la brújula		compass
 el autobús		bus
 la carreterra		road/highway
 el letrero		sign
 la esquina		corner
 llegar			to arrive
 perder			to lose
+la brújula		compass
+los puntos cardinales	cardinal points
+norte			north
 sur			south
+este			east
+oeste			west
+noroeste		northwest
+noreste			northeast
+suroeste		southwest
+sureste			southeast
 la hora			the hour
 busco			I look/search for
 estar			to be
