@@ -28,7 +28,7 @@ aquí			here 1
 acá			here 2
 hoy			today
 ayer			yesterday
-mańana			morning
+mañana			morning
 tienes			do you have
 ahí			there
 algo			something
@@ -54,7 +54,7 @@ diciembre		December
 invierno		winter
 primavera		spring
 verano			summer
-otońo			fall
+otoño			fall
 colores			colors
 colorido		colorful
 negro			black
@@ -110,7 +110,7 @@ la zanahoria		carrot
 la coliflor		cauliflower
 el apio			celery
 la cereza		cherry
-la castańa		chestnut
+la castaña		chestnut
 el maíz			corn
 el arándano		cranberry
 el pepino		cucumber
@@ -128,13 +128,13 @@ la lenteja		lentil
 el mango		mango
 la seta			mushroom
 la nuez			nut
-la naranja		orange
+la naranja		orange (fruit)
 el perejil		parsley
 la papaya		papaya
 el melocotón		peach
 la pera			pear
 la pimienta		pepper
-la pińa			pineapple
+la piña			pineapple
 la ciruela		plum
 la patata		potato
 las papas		potatos
@@ -184,8 +184,8 @@ la media		stocking
 el traje		suit
 el suéter		sweater
 el pulóver con capucha	sweatshirt with hood
-el bańador		swimsuit 1
-el traje de bańo	swimsuit 2
+el bañador		swimsuit 1
+el traje de baño	swimsuit 2
 el perro		dog
 el pájaro		bird 1
 el caballo		horse
@@ -228,7 +228,7 @@ el hipopótamo		hippopotamus
 la ballena		whale
 el canario		canary
 el zorro		fox
-el rebańo		flock
+el rebaño		flock
 el collar de perro	dog collar
 la jungla		jungle
 el cangrejo		crab
@@ -281,8 +281,8 @@ el cabello		hair 1
 la mano			hand
 el dedo			finger
 los dedos		fingers
-la uńa			fingernail
-las uńas		fingernails
+la uña			fingernail
+las uñas		fingernails
 el codo			elbow
 el hueso		bone
 los ojos		eyes
@@ -294,7 +294,7 @@ la pierna		leg
 el estómago		stomach
 los abdominales		abdominal muscles
 los hombros		shoulders
-las muńecas		wrists
+las muñecas		wrists
 los antebrazos		forearms
 el brazo		arm
 los codos		elbows
@@ -393,7 +393,7 @@ la cubeta		bucket
 el jabón		soap
 el lavado		wash/washing
 el tocador		dressing table
-la bańera		bath tub
+la bañera		bath tub
 la escala		scale
 el vapor		steam
 enjuague bucal		mouthwash
@@ -401,7 +401,8 @@ el esmalte		polish
 la casa			house
 la calle		street
 lejos			far
-cerca			close/near
+cerca			close/near 1
+cercano			close/near 2
 el restaurante		restaurant
 el hotel		hotel
 el agua			water
@@ -417,7 +418,7 @@ el equipaje		luggage
 la terminal		terminal
 el autobús		bus
 la carreterra		road/highway
-el letrero		sign
+el letrero		sign 1
 la esquina		corner
 llegar			to arrive
 perder			to lose
@@ -437,9 +438,9 @@ estar			to be
 tomar			to take
 libre			free
 la dirección		address
-enseńar			to teach/show
+enseñar			to teach/show
 bajar			to lower/go down
-la compańia de ferrocarril	railway company
+la compañia de ferrocarril	railway company
 a la derecho		to the right
 a la izquierda		to the left
 yo sigo			I follow
@@ -451,14 +452,13 @@ cuadra			block
 prolongación		continuation
 salida			exit
 voltear			to turn/toss
-vuelta			turn
-giro			turn
+vuelta			turn 1
+giro			turn 2
 girar			to turn
 el museo		museum
 el mercado		market
 el cruce		intersection
 el zócalo		main square
-cercano			close/near
 el ascensor		elevator
 el carril		lane
 decir			to say
@@ -476,7 +476,7 @@ poder			to be able
 perderse		to get lost
 él/ella sale		he/she goes out
 semáforo		traffic light
-seńal			sign
+señal			sign 2
 cerca de		near to
 transporte público	public transportation
 la tienda libre de impuestos	duty free store
@@ -507,8 +507,8 @@ el calzado		shoe shop
 la floristería		flower store
 el edificio		building
 el vecino		neighbor
-el vecindario		neighborhood
-el barrio		neighborhood
+el vecindario		neighborhood 1
+el barrio		neighborhood 2
 el tráfico		traffic
 la acera		sidewalk
 el estadio		stadium
@@ -535,7 +535,7 @@ la capital		capital
 el ejército		army
 la costumbre		custom
 el distrito		district
-el diseńo		design
+el diseño		design
 la plaza		market place/square
 centro médico		medical center
 lavandería		laundry
@@ -544,11 +544,10 @@ el atasco		traffic jam
 la embajada		embassy
 centro			downtown
 ayuntamiento		townhall/cityhall
-los bańos públicos	public bathrooms
+los baños públicos	public bathrooms
 la peatona		pedestrian
 pilar			column
 cuadras			blocks/squares
-la acerca		sidewalk
 cargar			to load/carry/charge
 la pared		wall
 la puerta		door/gate
@@ -583,12 +582,11 @@ las chapas		plates
 el taller		workshop
 el piso			floor
 el techo		roof/ceiling
-construir		to build
 la electricidad		electricity
 apilar			to pile up
 amarrar			to tie up
 alambre			wire
-de madera		wood
+la madera		wood
 descargar		to unload
 zócalo			baseboard
 extintor		fire extinguisher
@@ -605,9 +603,10 @@ permiso de trabajo	work permit
 renovar			renew
 restauración		restoration
 rigidez			rigidity
+construir		to build
 construyo		I build
 construí		I built
-construyendo		building
+construyendo		building (construction)
 constructor		builder
 nosotros construimos	we build
 conectar		to connect
@@ -627,7 +626,7 @@ sucío			dirty
 gordo			big/fat
 alto			tall
 grande			big/large
-pequeńo			small
+pequeño			small
 limpio			clean
 feo			ugly
 bonita			pretty/beautiful
@@ -663,7 +662,7 @@ gordito			chubby
 guapo			handsome
 gúero			blond
 rubia			blonde
-carińoso		loving
+cariñoso		loving
 hablador		talkative
 tímido			shy
 callado			shy/quiet
@@ -701,26 +700,26 @@ menos			less/minus/least
 bien hablado		well spoken
 poco			little
 por poco		nearly
-dentro			inside
-dentro de		inside
-encima			on top of
-encima de		on top of
+dentro			inside 1
+dentro de		inside 2
+encima			on top of 1
+encima de		on top of 2
 allí			there (medium distance)
 allá			there (far away)
 adelante		come in
 más adelante		later on
 a la par		next to/at same time
-lado			side
-costado			side
-afuera			outside
-fuera			outside
+lado			side 1
+costado			side 2
+afuera			outside 1
+fuera			outside 2
 fuera de		out of
 comer afuera		to eat out
 junto			together/next to
-atrás			behind
-detrás 			behind
-abajo			under
-debajo			under
+atrás			behind 1
+detrás 			behind 2
+abajo			under 1
+debajo			under 2
 arriba			up
 alrdedor		around
 delante			in front of
@@ -735,8 +734,8 @@ a todo escape		at full speed
 del todo		of all
 menos temprano		not too early
 más temprano		earlier
-mitad			half
-medio			half
+mitad			half 1
+medio			half 2
 más pesadas		heavier
 cuanto antes		sooner
 tanto			so much
@@ -744,11 +743,11 @@ tan			so/as
 nada			nothing
 mucho			much
 pronto			soon
-nunca			never
-jamás			never
+nunca			never 1
+jamás			never 2
 nunca jamás		never again
-ahora			now
-ahorita			now
+ahora			now 1
+ahorita			now 2
 siempre			always
 antes			before
 entonces		then
@@ -758,8 +757,8 @@ ya			already/certainly
 después			after/afterwards
 después de		after
 en seguida		at once
-ayer tarde		yesterday afternoon
-ayer por la tarde	yesterday afternoon
+ayer tarde		yesterday afternoon 1
+ayer por la tarde	yesterday afternoon 2
 a menudo		often
 a veces			sometimes
 antes de		before
@@ -768,14 +767,14 @@ anoche			last night
 desde			since/from
 en breve		soon/in a moment
 luego			then
-hace meses		months ago
-hace mes		months ago
+hace meses		months ago 1
+hace mes		months ago 2
 mientras tanto		meanwhile
 mientras		while
 menos temprano		not too early
 más temprano		earlier
-mańana por la mańana	tomorrow morning
-pasado mańana		day after tomorrow
+mañana por la mañana	tomorrow morning
+pasado mañana		day after tomorrow
 para siempre jamás	forever and ever
 cuanto antes		sooner
 certísimo		most certain
@@ -784,7 +783,7 @@ el lodazal		quagmire
 mujerona		big woman
 hombrón			big man
 mujerzuela		bad woman
-nińón			big kid
+niñón			big kid
 capitolio		capitol
 sucio			dirty
 la lavadora		washing machine
@@ -815,7 +814,7 @@ polvoriento		dusty
 suciedad		dirt
 cubo de la basura	trash can
 cepillar		to brush
-cuarto de bańo		bathroom
+cuarto de baño		bathroom
 los lentes		glasses
 anteojos		eyeglasses
 la bufanda		scarf
@@ -944,7 +943,7 @@ programa de aplicaciones		application program
 proveedor de servicios de internet	ISP
 la barra de herramientas		toolbar
 controlador de la impresora		printer controller
-la contraseńa				computer password
+la contraseña				computer password
 la dirección de una página web		web page address
 los elementos eliminados		trash/deleted items
 la dirección de correor electrónico	email address
@@ -1069,9 +1068,9 @@ discúlpeme		excuse me
 perdón			pardon
 OK			OK
 repetir			to say again
-seńor			sir/Mr.
-seńora			lady/madam/Mrs.
-seńorita		miss
+señor			sir/Mr.
+señora			lady/madam/Mrs.
+señorita		miss
 pagar			to pay
 la etiqueta		ticket
 el billete		bill (money)
