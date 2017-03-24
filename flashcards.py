@@ -1,13 +1,13 @@
 #!/usr/bin/python
 import random, time
 d = dict()
-n = 0
+n = 1
 for line in open('words.txt', 'r'):
-  if n < 400: 
+  if n <= 1200: 
     var = line.split('\t')
     d[var[len(var)-1]] = var[0]
     n += 1	
-#  elif n in range(300,400):
+#  elif n in range(300,700):
 #    var = line.split('\t')
 #    d[var[len(var)-1]] = var[0]
 #    n += 1

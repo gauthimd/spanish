@@ -15,7 +15,8 @@ para			for
 pero			but
 cuánto			how much
 este(a)			this
-ese			that
+ese			that 1
+que			that 2
 con			with
 sobre			about
 más			more
@@ -122,6 +123,7 @@ la uva			grape
 las judías verde	green beans
 el guisante		green peas
 el pimiento		green pepper
+la pimienta		pepper
 el rábano picante	horse radish
 el limón		lemon
 la lenteja		lentil
@@ -133,7 +135,6 @@ el perejil		parsley
 la papaya		papaya
 el melocotón		peach
 la pera			pear
-la pimienta		pepper
 la piña			pineapple
 la ciruela		plum
 la patata		potato
@@ -176,8 +177,8 @@ los zapatos tenis	sneakers
 los pantalones cortos	shorts 1
 el short		shorts 2
 la falda		skirt
-la zapatilla		slipper
-las pantuflas		slippers
+las zapatillas		slippers 1
+las pantuflas		slippers 2
 el calcetín		sock
 los calcetínes		socks
 la media		stocking
@@ -188,6 +189,8 @@ el bañador		swimsuit 1
 el traje de baño	swimsuit 2
 el perro		dog
 el pájaro		bird 1
+el ave 			bird 2
+los aves		birds
 el caballo		horse
 el ráton		mouse
 el conejo		rabbit
@@ -221,8 +224,6 @@ la rana			frog
 el veterinario		veterinarian
 el zoológico		zoo
 la iguana		iguana
-el ave 			bird 2
-los aves		birds
 el burro		donkey
 el hipopótamo		hippopotamus
 la ballena		whale
@@ -272,12 +273,13 @@ pez dorado		goldfish
 camellos		camels
 el caimán		alligator
 los caimanes		alligators
-ciervo			deer
-toro			bull
+el ciervo		deer
+el toro			bull
 la serpiente		snake
 dragones		dragons
 faisán			pheasant
 el cabello		hair 1
+el pelo			hair 2
 la mano			hand
 el dedo			finger
 los dedos		fingers
@@ -286,7 +288,6 @@ las uñas		fingernails
 el codo			elbow
 el hueso		bone
 los ojos		eyes
-el pelo			hair 2
 la nariz		nose
 las pantorrillas	calves
 el dedo del pie		toe
@@ -319,7 +320,6 @@ piel			skin
 sangre			blood
 la cintura		waist
 el tobillo		ankle
-las venas		veins
 el pecho		chest
 presión			pressure
 la garganta		throat
@@ -343,7 +343,7 @@ cuidadosamente		carefully
 últimamente		lately
 únicamente		solely
 detenidamente		fully
-próximamente		soon
+próximamente		soon 1
 repentinamente		suddenly 1
 de repente		suddenly 2
 decididamente		decidedly
@@ -363,7 +363,8 @@ admirablemente		admirably
 débilmente		weakly
 diligentemente		diligently
 dulcemente		sweetly
-extremadamente		extremely
+extremadamente		extremely 1
+sumamente		extremely 2
 ligeramente		lightly
 fácilmente		easily
 fuertemente		strongly
@@ -371,8 +372,6 @@ brillantemente		brightly
 ocasionalmente		occasionally
 puntualmente		promptly
 pobremente		poorly
-rápidamente		quickly
-sumamente		very
 completamente		completely
 tranquilamente		quietly
 tristemente		sadly
@@ -409,19 +408,16 @@ el agua			water
 la tienda		store/shop
 la estación		bus/train station
 el taxi			taxi
-el aeropuerto		airport
 el mapa			map
 la familia		family
 seguir			to follow/continue/pursue
 la aduana		customs
 el equipaje		luggage
-la terminal		terminal
 el autobús		bus
 la carreterra		road/highway
 el letrero		sign 1
 la esquina		corner
 llegar			to arrive
-perder			to lose
 la brújula		compass
 los puntos cardinales	cardinal points
 norte			north
@@ -447,7 +443,6 @@ yo sigo			I follow
 llevar			to take/carry/wear
 ¿adónde?		to where?
 ¿de dónde?		from where?
-el atajo		shortcut
 cuadra			block
 prolongación		continuation
 salida			exit
@@ -560,7 +555,6 @@ el martillo		hammer
 la escalera		ladder
 poner			to put
 pintar			to paint
-trabajar		to work
 el trabajo		job/work
 subir			to climb/rise/come up
 la luz			light
@@ -595,7 +589,6 @@ estrategia del lugar	place strategy
 espacial		spacial
 levantar		to rise up/lift up
 legar de trabajo	workplace
-barrer			to sweep
 obra nueva		new build
 obrero calificado	qualified worker
 material		material
@@ -621,7 +614,8 @@ anciana			elderly
 nuevo			new
 viejo			old
 triste			sad
-feliz			happy
+feliz			happy 1
+alegre			happy 2
 sucío			dirty
 gordo			big/fat
 alto			tall
@@ -632,7 +626,9 @@ feo			ugly
 bonita			pretty/beautiful
 bonito			good-looking
 enfermo			sick/ill
-rubio			blond
+gúero			blond 1
+rubio			blond 2
+rubia			blonde 3
 el frío			cold
 caliente		hot
 moreno			dark skinned
@@ -651,6 +647,7 @@ grueso			thick/stout
 sujeto a		subject to
 flojo			lazy
 simpático		pleasant/nice
+antipático		unpleasant
 tranquilo		quiet
 bueno			good
 traviesa		mischievous fem
@@ -660,8 +657,6 @@ delgado			thin
 fuerte			strong
 gordito			chubby
 guapo			handsome
-gúero			blond
-rubia			blonde
 cariñoso		loving
 hablador		talkative
 tímido			shy
@@ -670,11 +665,9 @@ sabroso			tasty
 caro			expensive
 preferido		favorite/preferred
 juguetona		playful
-alegre			happy
 amable			kind
 agresivo		aggresive
 admirable		admirable
-antipático		unpleasant
 aburrido		boring
 atrevido		daring/bold
 vientos fuertes		strong winds
@@ -693,7 +686,8 @@ bastante		enough
 apenas			barely/hardly
 así			this way
 así como		as well as/just like
-aprisa			quickly
+rápidamente		quickly 1
+aprisa			quickly 2
 más aprisa		faster
 menos aprisa		less quick
 menos			less/minus/least
@@ -733,24 +727,24 @@ casi			almost
 a todo escape		at full speed
 del todo		of all
 menos temprano		not too early
-más temprano		earlier
 mitad			half 1
 medio			half 2
 más pesadas		heavier
-cuanto antes		sooner
 tanto			so much
 tan			so/as
 nada			nothing
 mucho			much
-pronto			soon
+pronto			soon 2
 nunca			never 1
 jamás			never 2
 nunca jamás		never again
 ahora			now 1
 ahorita			now 2
 siempre			always
-antes			before
-entonces		then
+antes			before 1
+antes de		before 2
+entonces		then 1
+luego			then 2
 anteayer		day before yesterday
 todavía			yet
 ya			already/certainly
@@ -761,17 +755,14 @@ ayer tarde		yesterday afternoon 1
 ayer por la tarde	yesterday afternoon 2
 a menudo		often
 a veces			sometimes
-antes de		before
 aún			even/yet/still
 anoche			last night
 desde			since/from
 en breve		soon/in a moment
-luego			then
 hace meses		months ago 1
 hace mes		months ago 2
 mientras tanto		meanwhile
 mientras		while
-menos temprano		not too early
 más temprano		earlier
 mañana por la mañana	tomorrow morning
 pasado mañana		day after tomorrow
@@ -785,15 +776,16 @@ hombrón			big man
 mujerzuela		bad woman
 niñón			big kid
 capitolio		capitol
-sucio			dirty
 la lavadora		washing machine
 la aspiradora		vacuum cleaner
 limpiar			to clean
-el basurero		trash can
+el basurero		trash can 1
+cubo de la basura	trash can 2
 el bote de basura	wastebasket
 el recogedor de basura	dustpan
 el sacudidor		dustcloth
-trapeador		mop
+trapeador		mop 1
+fregona			mop 2
 trapeando		mopping
 los quehaceres		chores
 desordenado		untidy/messy
@@ -802,7 +794,6 @@ enjuague la		rinse the...
 ensuciar		to get dirty/mess up
 limpie el		clean the...
 limpieza		cleaning
-fregona			mop
 barrer			to sweep
 las bolsas para basura	trash bags
 barnices		polishes
@@ -886,7 +877,6 @@ formato			format
 kilómetro		kilometer
 keroseno		kerosene
 kilo			kilo
-ofrecer			to offer
 organizar		to organize
 manual			manual
 personal		personal
@@ -922,7 +912,6 @@ indentificación		identification
 inocente		innocent
 el sofá			sofa
 el reloj		clock/watch
-abrir			to open
 abierto			open
 reparar			to repair
 cortar			to cut
@@ -937,8 +926,8 @@ el correo electrónico	e-mail
 el grupo de charla	chat room
 pantalla		screen
 favorito		favorite/bookmark (internet)
-la página principal			homepage
-la página inicial			homepage
+la página principal			homepage 1
+la página inicial			homepage 2
 programa de aplicaciones		application program
 proveedor de servicios de internet	ISP
 la barra de herramientas		toolbar
@@ -970,13 +959,13 @@ el virus		virus
 apagado			extinguished/turned off
 el atajo		shortcut
 la carpeta		folder
-la batería		battery
-pila			battery
+la batería		battery 1
+pila			battery 2
 borrar			to erase
 el borrador		eraser
 la impresora laser	laser printer
-apoyo			support
-respaldo		support
+apoyo			support 1
+respaldo		support 2
 almacenar		to store
 asunto			subject
 apagón			blackout
@@ -1052,9 +1041,9 @@ el botón		button
 el vaso			glass
 la cuchara		spoon
 la cucharita		dessert spoon
-la taza			cup
+la taza			cup 1
+la copa			cup 2
 la ensalada		salad
-la copa			cup
 traer			to bring
 el fuego		fire
 la azafata		flight attendant
@@ -1106,6 +1095,7 @@ asesino			murderer/assassin
 arresto domiciliario	house arrest
 armado			armed
 alguacil		sheriff
+el dueño		owner
 el verbo		verb
 arrestar		to arrest
 ser 			to be (permanent)
@@ -1158,7 +1148,8 @@ entender		to understand
 pedir			to request/ask for
 recibir			to receive/to welcome/greet
 recordar		to remember/remind
-terminar		to finish/end
+terminar		to finish/end 1
+acabar			to finish/end 2
 permitir		to permit/allow
 aparecer		to appear/show up
 conseguir		to get/obtain
@@ -1176,7 +1167,6 @@ crear			to create/to make
 abrir			to open
 considerar		to consider
 oír			to hear
-acabar			to finish/end
 convertir		to convert/change
 ganar			to win/gain/earn/get/acquire
 formar			to form/shape/fashion/make

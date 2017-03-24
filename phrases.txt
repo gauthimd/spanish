@@ -133,3 +133,5 @@ bien hecho				well done
 poco cocido				rare
 bien cocido				well done
 bien asada				well done
+¿puedo ir contigo?			can I come with you?
+estoy en busca de			I'm looking for
