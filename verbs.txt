@@ -93,11 +93,11 @@ verter		to spill
 
 some verbs of all three types change stem o:ue in all conj but nosotros
 contar
-cuento
-cuentas
-cuenta
-contamos
-cuentan
+yo cuento
+tú cuentas
+el cuenta
+nosotros contamos
+ustedes cuentan
 
 other common o:ue stem changing verbs
 acordar 	to agree/decide
@@ -131,11 +131,11 @@ volver		to return
 
 irregular verbs 'ir' and 'dar'
 ir	to go		dar	to give/to have
-voy			doy
-vas			das
-va			da
-vamos			damos
-van			dan
+yo voy			doy
+tú vas			das
+el va			da
+nosotros vamos		damos
+ustedes van		dan
 
 irregular verbs 'tener' and 'venir'
 tener	to have		venir	to come

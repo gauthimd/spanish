@@ -700,8 +700,7 @@ encima			on top of 1
 encima de		on top of 2
 allí			there (medium distance)
 allá			there (far away)
-adelante		come in
-más adelante		later on
+adelante		come in/forward/later on
 a la par		next to/at same time
 lado			side 1
 costado			side 2
@@ -715,7 +714,7 @@ detrás 			behind 2
 abajo			under 1
 debajo			under 2
 arriba			up
-alrdedor		around
+alrededor		around
 delante			in front of
 enfrente		in front
 muy			very
@@ -737,7 +736,7 @@ mucho			much
 pronto			soon 2
 nunca			never 1
 jamás			never 2
-nunca jamás		never again
+nunca jamás		never ever
 ahora			now 1
 ahorita			now 2
 siempre			always
