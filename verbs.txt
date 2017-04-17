@@ -146,3 +146,84 @@ tenemos			venimos
 tienen			vienen
 
 PRETERITE TENSE
+The preterite tense is used when referring to actions that occurred at a fixed
+point in time, or in the past that were performed a specific number of times,
+or during a specific enclosed period time, or were part of a chain of events.
+
+Regular -ar verbs		example: hablar
+é				hablé
+aste				hablaste
+ó				habló
+amos				hablamos
+aron				hablaron
+
+Regular -er, -ir verbs		examples: comer, vivir
+í				comí, viví
+iste				comiste, viviste
+ió				comió, vivió
+imos				comimos, vivimos
+ieron				comieron, vivieron
+
+ser		ir		dar		hacer
+fui		fui		di		hice
+fuiste		fuiste		diste		hiciste
+fue		fue		dio		hizo
+fuimos		fuimos		dimos		hicimos
+fueron		fueron		dieron		hicieron
+
+IMPERFECT TENSE
+The imperfect tense is used to describe something in the past the occurred 
+repeatedly or over an extended period of time.
+
+-ar verbs			example: hablar
+aba				hablaba
+abas				hablabas
+aba				hablaba
+ábamos				hablábamos
+aban				hablaban
+
+-er verbs, -ir verbs		example: vivir
+ía				vivía
+ías				vivías
+ía				vivía
+íamos				vivíamos
+ían				vivían
+
+ser		ver		ir
+era		veía		iba
+eras		veías		ibas
+era		veía		iba
+éramos		veíamos		íbamos
+eran		veían		iban
+
+CONDITIONAL TENSE
+The conditional tense is frequently used to express probability, possibility,
+wonder, or conjecture, and is usually translated as would, could, must have or
+probably
+
+-ar, -er, -ir verbs			example: comer
+ía					comería
+ías					comerías
+ía					comería
+íamos					comeríamos
+ían					comerían
+
+FUTURE TENSE
+The future tense is used to tell what "will" or "shall" happen.
+
+regular verbs
+é
+ás
+á
+emos
+án
+
+SUMMARY OF TENSES 
+for regular -er, -ir verbs
+
+PRESENT		PRETERITE	IMPERFECT	CONDITIONAL	FUTURE
+o		í		ía		ía		é
+es		iste		ías		ías		ás
+e		ió		ía		ía		á
+e/imos		imos		íamos		íamos		emos
+en		ieron		ían		ían		án
