@@ -47,10 +47,10 @@ concebir	to conceive
 despedir	to fire
 impedir		to impede
 medir		to measure
-reńir		to scold/quarrel
+reñir		to scold/quarrel
 repetir		to repeat
 servir		to serve
-teńir		to color/dye/stain
+teñir		to color/dye/stain
 vestir		to dress
 
 some verbs of all three types change stem e:ie in all conj but nosotros
@@ -124,7 +124,7 @@ resolver	to solve
 rogar		to beg/pray
 soler		to be in the habit of
 sonar		to sound/ring
-sońar		to dream
+soñar		to dream
 tostar		to toast
 volar		to fly
 volver		to return

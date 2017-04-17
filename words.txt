@@ -111,6 +111,7 @@ la zanahoria		carrot
 la coliflor		cauliflower
 el apio			celery
 la cereza		cherry
+los cerezos		cherry trees
 la castaña		chestnut
 el maíz			corn
 el arándano		cranberry
@@ -124,6 +125,7 @@ las judías verde	green beans
 el guisante		green peas
 el pimiento		green pepper
 la pimienta		pepper
+perrito caliente	hotdog
 el rábano picante	horse radish
 el limón		lemon
 la lenteja		lentil
@@ -242,6 +244,7 @@ la tortuga		turtle
 el reno			reindeer
 el conejito		bunny
 las pieles		skins
+cueros			hides
 el sebo			tallow
 pez gato		catfish
 salmón			salmon
@@ -260,6 +263,7 @@ la gaviota		seagull
 gorila			gorilla
 ladrar			to bark
 lagartos		lizards
+la mariquita		ladybug
 la fosa			pit
 la fauna		fauna
 las ovejas		sheep
@@ -398,6 +402,7 @@ el vapor		steam
 enjuague bucal		mouthwash
 el esmalte		polish
 la casa			house
+la casita de muñecas	dollhouse
 la calle		street
 lejos			far
 cerca			close/near 1
@@ -405,6 +410,7 @@ cercano			close/near 2
 el restaurante		restaurant
 el hotel		hotel
 el agua			water
+agua embotellada	bottle water
 la tienda		store/shop
 la estación		bus/train station
 el taxi			taxi
@@ -413,6 +419,8 @@ la familia		family
 seguir			to follow/continue/pursue
 la aduana		customs
 el equipaje		luggage
+el carrito de equipaje	luggage cart
+carrito de compras	shopping cart
 el autobús		bus
 la carreterra		road/highway
 el letrero		sign 1
@@ -461,13 +469,13 @@ de aquí			from here
 doblar			to bend/turn
 el derecho de paso	right of way
 zona			zone
+cuento			tale
 el paradero de autobuses	bustop
 encontrar		to find
 lejos de		far from
 luz de giro		turn signals
 larga distancia		long distance
 el último		last
-poder			to be able
 perderse		to get lost
 él/ella sale		he/she goes out
 semáforo		traffic light
@@ -480,6 +488,7 @@ el horario		schedule
 el carro		car
 los carros		cars
 la ciudad		city
+ciudadano		citizen
 usted sale		you go out
 el hospital		hospital
 el cine			cinema/movie theater
@@ -502,6 +511,7 @@ el calzado		shoe shop
 la floristería		flower store
 el edificio		building
 el vecino		neighbor
+el recuerdo		souvenir
 el vecindario		neighborhood 1
 el barrio		neighborhood 2
 el tráfico		traffic
@@ -528,6 +538,7 @@ el palacio		palace
 la fábrica		factory
 la capital		capital
 el ejército		army
+la cueva		cave
 la costumbre		custom
 el distrito		district
 el diseño		design
@@ -538,6 +549,9 @@ el quiosco de periódicos	newsstand
 el atasco		traffic jam
 la embajada		embassy
 centro			downtown
+la escuela		school
+jardín infantil		kindergarten
+psiquiatría		psychiatry
 ayuntamiento		townhall/cityhall
 los baños públicos	public bathrooms
 la peatona		pedestrian
@@ -548,10 +562,12 @@ la pared		wall
 la puerta		door/gate
 el camión		truck
 la caja			box
+cajilla de seguirdad	security box
 la llave		key
 el plano		plan
 el clavo		nail
 el martillo		hammer
+el nivel		level
 la escalera		ladder
 poner			to put
 pintar			to paint
@@ -559,6 +575,11 @@ el trabajo		job/work
 subir			to climb/rise/come up
 la luz			light
 la huelga		worker strike
+la asociación de obreros	trade union
+dar aviso de despedida	to give notice of dismissal
+la relación		report
+la posición		position/standing
+el dependiente		clerk
 los soportes		bearings
 el tornillo		screw
 los tornillos		screws
@@ -566,6 +587,7 @@ atornillar		to screw
 destornillador		screwdriver
 los patronos		masters/bosses
 sobrecargarse		to overload oneself
+la cuerda		rope
 las herramientas	tools
 la caja de herramientas	toolbox
 el obrero		workman
@@ -766,7 +788,7 @@ más temprano		earlier
 mañana por la mañana	tomorrow morning
 pasado mañana		day after tomorrow
 para siempre jamás	forever and ever
-cuanto antes		sooner
+cuanto antes		sooner/ASAP/right now
 certísimo		most certain
 novísimo		newest
 el lodazal		quagmire
@@ -848,6 +870,7 @@ el mecánico		mechanic
 el profesor		teacher
 el documento		document
 el examen		exam/test
+prueba			test
 la sociedad		society
 aire acondicionado	air-conditioned
 la profesión		profession
@@ -897,6 +920,10 @@ champú			shampoo
 criminal		criminal
 cooperar		to cooperate
 la clase turista	tourist class
+el baile		dance
+el acuerdo		agreement
+acuerde			agree
+recuerdos		memories
 la clase ejecutiva	executive class
 trampolín		trampoline
 transacción		transaction
@@ -1028,7 +1055,7 @@ cartucho		cartridge
 cortafuegos		firewall
 texto			text
 tipo			type
-tinta			ink
+la tinta		ink
 imagen			image
 infectado		infected
 inicio			start
@@ -1047,6 +1074,7 @@ traer			to bring
 el fuego		fire
 la azafata		flight attendant
 el jugo			juice
+los refrescos		refreshments/soft drinks
 el anfitrión		host
 podría			would you be able
 podríamos		we would/could
@@ -1063,9 +1091,14 @@ pagar			to pay
 la etiqueta		ticket
 el billete		bill (money)
 el ingreso		revenue
+el helado		ice cream
 helado de chocolate	chocolate ice cream
 la bebida		drink
+las bebidas		drinks
+el té			tea
+infusión		herbal tea
 té con crema y azúcar	tea with cream and sugar
+una coca		coke
 jugo de naranja		orange juice
 precio			price
 hipotecar		to mortgage
@@ -1080,6 +1113,8 @@ el juez			judge
 el abogado		lawyer
 la ley			the law
 robar			to rob/steal
+el robo			burglary/thief
+hurto			theft
 el ladrón		thief
 forense			forensic
 investigar		to investigate
@@ -1090,13 +1125,139 @@ el terrorista		terrorist
 juicio			trial
 jurisdicción		jurisdiction
 jurado			jury
+sala del jurado		jury room
+sala del audiencias	courtroom
+corte			court
+un secuestro		kidnapping
+sabotaje		sabotage
 asesino			murderer/assassin
 arresto domiciliario	house arrest
 armado			armed
 alguacil		sheriff
+antecedentes penales	criminal records
+cargos penales		criminal charges
+acusado			accused
+asaltante		assaulter
+fiscal 			attorney
+fiscal del distrito	district attorney
+abogado acusador	prosecuting attorney
+abogado defensor	defense attorney
+a sangre fría		in cold blood
+gamberro		roughneck
+veredicto		verdict
+vándalo			vandal
+testigo			witness
+testigo ocular		eye witness
+víctima			victim
+el/la querellante	the plantiff
+detener			to detain
+declararse culpable	to plead guity
+desarmado		disarmed
+declarse inocente	to plead innocent
+escaparse		to escape 1
+fugarse			to escape 2
+crimen			crime
+escena del crimen	crime scene
+libertad condicional	parole
+tiro			shot
+bala			bullet
+culpable		guilty
+coche de policía	police car
+contrabandista		smuggler
+el convicto		convict
+chantajear		to blackmail
+condena			sentence
+condenar		to condemn
+comisaría		police station
+hacer cumplir		to enforce
+médico forense		coroner
+el lápiz		pencil
+la mesa			table
+el regalo		gift
+la alfombra		carpet
+el teléfono		telephone
+el pastel		cake
+la botella		bottle
+los libros		books
+libro de curso		textbook
+la nota			note
+la pizarra		chalkboard
+el cuaderno		notebook
+la evaluación		evaluation
+el aula			classroom
+la calculadora		calculator
+el poema		poem
+el diploma		diploma
+correcto		correct
+el microscopio		microscope
+la mochila		backpack
+las maletas		suitcases
+los dictados		dictates
+la facultad		university school
+la preparatoria		high school 1
+el bachillerato		high school 2
+reprobar		to fail a class
+la tarea		homework
+el ensayo		essay
+el idioma		language
+la antropología		anthropology
+la matemática		math
+matemática		mathematical
+la geografía		geography
+la astronomía		astronomy
+el arte			art
+la historia		history
+la música		music
+la escritura		writing
+por escrito		in writing
+la literatura		literature
+la educación física	physical education
+el cálculo		calculus
+el curso		class/course
+la ciencia		science
+las ciencias		sciences
+el cientifico		scientist
+los científicos		scientists
+el profesor		teacher
+la química		chemistry
+la biología		biology
+la física		physics
+las ciencias políticas	political sciences
+las ciencias sociales	social sciences
+la cultura		culture
+el papel		paper
+la pluma		pen/feather
+el equipo		team
+el escritorio		desk
+graduarse		to graduate
+el título		degree
+solicitud de admisión	admission application
+solicitante de admisión	applicant for admission
+admisión condicional	conditional admission
+el sobre		envelope
+conferencia		conference
+ausente			absent
+gabacha			lab coat
+los estudios		studies
+educación religiosa	religious education
+el hermano		brother
+la abuelita		grandma
+la mamá			the mom
+los amigos		friends
+la venta		sale
+la Pascua		Easter
+el café			coffee
+el corcho		cork
+el sándwich		sandwich 1
+el emparedado		sandwich 2
+el bocadillo		sandwich 3
+la torta		sandwich 4
+el sánduche		sandwich 5
+mesita de noche		bedside table
+la mesita		the little table
+rejilla de ventilación	vent
 el dueño		owner
 el verbo		verb
-arrestar		to arrest
 ser 			to be (permanent)
 estar			to be (temp/location)
 tener			to have
@@ -1107,6 +1268,7 @@ ir			to go
 ver			to see
 dar			to give
 comer			to eat
+beber			to drink
 saber			to know (info)
 querer			to want
 llegar			to arrive/come/reach
@@ -1197,3 +1359,8 @@ ofrecer			to offer
 descubrir		to discover
 levantar		to raise/to lift
 intentar		to try/attempt
+matar			to kill
+secuestrar		to kidnap
+testificar		to testify
+arrestar		to arrest
+reinar			to rule/reign
