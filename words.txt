@@ -327,6 +327,7 @@ el tobillo		ankle
 el pecho		chest
 presión			pressure
 la garganta		throat
+esófago			esophagus
 dolor en el pecho	chest pain
 el muslo		thigh
 parálisis		paralysis
@@ -335,6 +336,9 @@ la costilla		rib
 el cuello		neck
 el talón		heel
 el cuerpo		body
+el páncreas		pancreas
+el hígado		liver
+intérprete		interpret
 afortunadamente		fortunately
 desafortunadamente	unfortunately 1
 lamentablemente		unfortunately 2
@@ -538,6 +542,7 @@ el palacio		palace
 la fábrica		factory
 la capital		capital
 el ejército		army
+los fósforos		the matches
 la cueva		cave
 la costumbre		custom
 el distrito		district
@@ -578,6 +583,7 @@ la huelga		worker strike
 la asociación de obreros	trade union
 dar aviso de despedida	to give notice of dismissal
 la relación		report
+la cinta		ribbon/tape/cassette
 la posición		position/standing
 el dependiente		clerk
 los soportes		bearings
@@ -585,6 +591,8 @@ el tornillo		screw
 los tornillos		screws
 atornillar		to screw
 destornillador		screwdriver
+el jefe			boss
+la profesión		profession
 los patronos		masters/bosses
 sobrecargarse		to overload oneself
 la cuerda		rope
@@ -592,6 +600,8 @@ las herramientas	tools
 la caja de herramientas	toolbox
 el obrero		workman
 turno			workshift
+entrenamiento		training 1
+adiestramiento		training 2
 tirar			to throw
 instalación		installation
 las chapas		plates
@@ -610,11 +620,13 @@ exterior		exterior
 estrategia del lugar	place strategy
 espacial		spacial
 levantar		to rise up/lift up
-legar de trabajo	workplace
+lugar de trabajo	workplace
 obra nueva		new build
 obrero calificado	qualified worker
 material		material
 permiso de trabajo	work permit
+autorizacion de empleo	job authorization
+despedir		to dismiss/to fire
 renovar			renew
 restauración		restoration
 rigidez			rigidity
@@ -810,7 +822,8 @@ fregona			mop 2
 trapeando		mopping
 los quehaceres		chores
 desordenado		untidy/messy
-dormitorio		bedroom
+dormitorio		bedroom 1
+la recámara		bedroom 2
 enjuague la		rinse the...
 ensuciar		to get dirty/mess up
 limpie el		clean the...
@@ -841,6 +854,7 @@ la televisión		television
 la cámara		camera
 la fotografía		photograph
 el archivo		file
+archivador		ring binder
 el programa		program
 el robot		robot
 el aeropuerto		airport
@@ -893,6 +907,7 @@ es importante		it's important
 legal			legal
 fenómeno		phenomenon
 fotocopia		photocopy
+fotocopiadora		copy machine
 fluorescente		fluorescent
 formal			formal
 formato			format
@@ -968,6 +983,7 @@ las preferencias	preferences
 arrastrar		to drag (across screen)
 pegar			to drop (on screen)
 descargar		download
+clip			clip
 el portapapeles		clipboard
 una actualización	an update
 el enlace		link (internet)
@@ -1045,6 +1061,7 @@ subrayado		underlined
 sistema operativo	operating system
 sitio web seguro	secure website
 computación		computation
+comunicación		communication
 conexión de redes	net connection
 corrector ortográfico	spell check
 cargador		battery charger
@@ -1091,6 +1108,24 @@ pagar			to pay
 la etiqueta		ticket
 el billete		bill (money)
 el ingreso		revenue
+mano de obra		labor
+el sindicato		labor union
+unión			union
+buzón			mailbox
+bonifacación		bonus
+horas extras		overtime
+materiales de oficina	office supplies
+motivación		motivation
+la entrevista		interview
+el empleado		employee
+de tiempo completo	full time
+medio tiempo		part time 1
+el tiempo parcial	part time 2
+beneficios		benefits
+colega			colleague
+compañero de trabajo	coworker
+résumé			resume 1
+currículo		resume 2
 el helado		ice cream
 helado de chocolate	chocolate ice cream
 la bebida		drink
@@ -1228,14 +1263,25 @@ la cultura		culture
 el papel		paper
 la pluma		pen/feather
 el equipo		team
+trabajo en equipo	teamwork
+la ocupación		occupation
 el escritorio		desk
+la silla		chair
 graduarse		to graduate
 el título		degree
+aplicación		application
 solicitud de admisión	admission application
 solicitante de admisión	applicant for admission
 admisión condicional	conditional admission
 el sobre		envelope
 conferencia		conference
+agencia de empleos	job agency
+dotación de personal	staffing
+departamento de personal	HR dept
+el empleador		employer
+evaluación de rendimiento	performance evaluation
+aspirante		contender/candidate/applicant
+vacante			vacant
 ausente			absent
 gabacha			lab coat
 los estudios		studies
@@ -1248,6 +1294,37 @@ la venta		sale
 la Pascua		Easter
 el café			coffee
 el corcho		cork
+moral			moral
+mediador		mediator
+mentor			mentor
+retención		retention
+reclutamiento		recruitment
+renunciar		renounce
+relaciones		relations
+sellos			stamps
+satisfacción		satisfaction
+salario mínimo		minimum wage
+salario			wage
+sueldo			salary
+compensación		compensation
+credenciales		credentials
+calendario		calendar
+cambio			change
+nómina de pago		payroll
+inflación		inflation
+interno			intern
+cómodo			comfortable
+el cómico		comedian
+un periódico		a newspaper
+la lámpara		the lamp
+mayúscula		capital letter
+plástico		plastic
+lágrima			tear
+fábula			fable
+héroe			hero
+espátula		spatula
+cáscara			shell/peel
+príncipe		prince
 el sándwich		sandwich 1
 el emparedado		sandwich 2
 el bocadillo		sandwich 3
@@ -1364,3 +1441,6 @@ secuestrar		to kidnap
 testificar		to testify
 arrestar		to arrest
 reinar			to rule/reign
+solicitar		to apply (for a job)/to request
+motivar			to motivate
+resolver		to solve
