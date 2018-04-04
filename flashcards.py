@@ -3,7 +3,7 @@ import random, time
 d = dict()
 n = 1
 for line in open('words.txt', 'r'):
-  if n < 1200: 
+  if n < 1446: 
     var = line.split('\t')
     d[var[len(var)-1]] = var[0]
     n += 1	
@@ -18,6 +18,6 @@ for x in d:
   print x + '   ' + str(y)
   y += 1
 #  raw_input()
-  time.sleep(1.5)
+  time.sleep(.75)
   print d[x]
   print '************************************'
