@@ -304,7 +304,7 @@ maldecir		to curse
 manejar			to manage, to handle, to drive, to operate (a vehicle)
 mantener		to maintain, to keep up, to support, to provide for
 marcar			to mark, to note, to observe
-marchar			to walk, to march, to function (machine), to run (machine)
+marchar			to walk/march, to function (machine), to run (machine)
 marcharse		to go away, to leave
 matar			to kill
 medir			to measure, to weigh, to scan (verses)
@@ -315,12 +315,12 @@ merecer			to merit, to deserve
 mirar			to look, to look at, to watch
 mirarse			to look at oneself, to look at each other 
 mojarse			to get wet, to wet oneself
-montar			to mount, to go up, to climb, to get on, to wind (a watch)
+montar			to mount, to go up/get on, to climb, to wind (a watch)
 morder			to bite
 morir			to die
 mostrar			to show, to point out, to display
 mover			to move, to persuade, to excite
-mudarse			to change one's clothes, to change one's place of residence, to move
+mudarse			to change one's clothes, to change residence, to move
 nacer			to be born
 nadar			to swim
 navegar			to navigate, to sail
@@ -359,7 +359,7 @@ perdonar		to pardon, to forgive, to excuse
 permitir		to permit, to admit, to allow, to grant
 pertenecer		to pertain, to appertain, to belong
 pintar			to paint
-pintarse		to make up (one's face), to tint, to color (one's hair, lips, etc)
+pintarse		to make up (face), to color (one's hair, lips, etc)
 pisar			to tread (on), to step on, to trample
 placer			to gratify, to humor, to please
 platicar		to chat, to talk over, to discuss
@@ -399,3 +399,103 @@ recomendar		to recommend, to commend, to advise
 reconocer		to recognize, to acknowledge, to be grateful for
 recordar		to remember, to recall, to remind
 referir			to refer, to relate
+regalar			to give as a present, to make present of, to give gift
+regar			to water, to irrigate, to sprinkle
+regresar		to return, to go back, to regress
+reir			to laugh
+reirse			to laugh
+rellenar		to refill, to fill again, to stuff
+remitir			to remit, to forward, to transmit
+renir			to scold, to quarrel
+reparar			to mend, to repair, to notice, to observe
+repartir		to distribute, to deal cards
+repetir			to repeat
+resolver		to resolve, to solve (a problem)
+responder		to answer, to reply, to respond
+retirar			to retire, to withdraw
+retrasar		to delay, to retard
+reunirse		to assemble, to get together, to meet, to gather
+revocar			to revoke, to repeal
+revolver		to revolve, to turn around, to turn over/upside down
+robar			to rob, to steal
+rogar			to supplicate, to ask, to ask for, to beg, to pray
+romper			to break, to shatter, to tear
+saber			to know, to know how
+sacar			to take out, to get
+sacudir			to shake, to jerk, to jolt
+salir			to go out, to leave
+saltar			to jump, to leap, to hop, to spring
+saludar			to greet, to salute
+satisfacer		to satisfy
+secar			to dry, to wipe dry
+secarse			to dry oneself
+seguir			to follow, to pursue, to continue
+senalar			to signal, to indicate, to point out, to show
+sentarse		to sit down
+sentir			to feel sorry, to regret, to feel
+sentirse		to fell (well, ill)
+separar			to separate, to detach, to sort, to set apart
+ser			to be
+servir			to serve
+socorrer		to help, to aid, to assist
+sofocar			to choke, to smother, to suffocate, to stifle
+soler			to be accustomed to, to be in the habit of
+sollozar		to sob, to whimper
+someter			to subdue, to subject, to surrender, to submit
+sonar			to ring, to echo, to resound, to sound
+sonar			to dream
+sonreir			to smile
+soplar			to blow, to blow out
+sorprender		to surprise, to astonish
+sospechar		to suspect
+sostener		to sustain, to support, to maintain, to uphold
+subir			to go up, to come up, to climb, to rise, to mount/get on
+subrayar		to underline, to underscore, to emphasize
+subscribir		to subscribe, to agree to, to sign
+suceder			to happen
+sufrir			to suffer, to endure, to bear up, to undergo
+sugerir			to hint, to insinuate, to suggest
+sumergir		to submerge, to plunge, to immerse, to sink
+suponer			to suppose, to assume
+suprimir		to suppress, to abolish, to cancel (math), to delete
+surgir			to surge, to spout up, to spring up, to appear/emerge
+suspirar		to sigh
+taner			to pluck, to play (stringed instrument)
+telefonear		to telephone
+telegrafiar		to telegraph, to cable
+temblar			to tremble, to quake, to quiver, to shake, to shiver
+temer			to fear, to dread
+tender			to extend, to offer, to stretch, to spread/hang clothes
+tener			to have, to hold
+tentar			to examine by touch, to feel w fingers, to attempt/try
+terminar		to end, to terminate, to finish
+tirar			to pull, to draw, to pitch (ball), to shoot (gun),
+tocar			to play (music/instrument), to touch
+tomar			to take, to have (something to drink)
+tostar			to toast, to tan, to roast (coffee)
+trabajar		to work, to labor
+traducir		to translate
+traer			to bring
+tratar			to try, to treat a subject
+tropezar		to stumble, to blunder
+unir			to connect, to unite, to join, to bind, to attach
+usar			to use, to employ, to wear
+utilizar		to utilize
+vaciar			to empty
+valer			to be worth, to cost
+velar			to stay awake, to guard, to watch over
+vencer			to conquer, to overcome, to defeat
+vender			to sell
+venir			to come
+ver			to see
+vestirse		to dress oneself, to get dressed
+viajar			to travel
+vigilar			to watch (over), to keep guard, to look out for
+visitar			to visit
+vivir			to live
+volar			to fly
+volver			to return, to go back
+votar			to vote, to vow
+yacer			to lie down, to be lying down, to lie in a grave
+zumbar			to buzz, to hum, to flutter around
+zurcir			to darn, to mend
