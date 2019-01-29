@@ -14,7 +14,7 @@ acercarse		to approach, to draw near
 acertar			to hit the mark, to hit upon, to do/guess (thing) right
 aclamar			to acclaim, to applaud, to shout, to hail
 aclarar			to explain, to clarify, to make clear, to clear
-acompanar		to accompany, to escort, to go with, to keep company
+acompañar		to accompany, to escort, to go with, to keep company
 aconsejar		to advise, to counsel
 acordar			to agree (upon)
 acordarse		to remember, to agree
@@ -52,7 +52,7 @@ alumbrar		to illuminate, to light, to enlighten
 alumbrarse		to be (get) high, to get tipsy/lively (from liquor)
 alzar			to heave, to lift, to pick up, to raise (prices)
 amar			to love
-anadir			to add
+añadir			to add
 andar			to walk
 anunciar		to announce, to foretell, to proclaim
 apagar			to put out (flame, fire), to extinguish, to turn off
@@ -172,7 +172,7 @@ descansar		to rest
 describir		to describe, to delineate
 descubrir		to discover, to reveal, to uncover, to unveil
 desear			to desire, to wish, to want
-desempenar		to play (a part), to act (a part), to discharge, 
+desempeñar		to play (a part), to act (a part), to discharge, 
 deshacer		to undo, to destroy, to take apart
 despedirse		to take leave of, to say good-bye to
 despegar		to detach, to unglue, to unstick, to take off (airplane)
@@ -208,7 +208,7 @@ encontrar		to meet, to encounter, to find
 enfadarse		to become angry, annoyed, irritated
 enfermarse		to get sick, to fall sick, to become sick, to fall ill
 enojarse		to become angry, to get angry, to get cross
-ensenar			to teach, to show, to point out
+enseñar			to teach, to show, to point out
 entender		to understand
 entrar			to enter, to go (in), to come (in)
 entregar		to deliver, to hand over, to give
@@ -430,7 +430,7 @@ satisfacer		to satisfy
 secar			to dry, to wipe dry
 secarse			to dry oneself
 seguir			to follow, to pursue, to continue
-senalar			to signal, to indicate, to point out, to show
+señalar			to signal, to indicate, to point out, to show
 sentarse		to sit down
 sentir			to feel sorry, to regret, to feel
 sentirse		to fell (well, ill)
@@ -443,8 +443,8 @@ soler			to be accustomed to, to be in the habit of
 sollozar		to sob, to whimper
 someter			to subdue, to subject, to surrender, to submit
 sonar			to ring, to echo, to resound, to sound
-sonar			to dream
-sonreir			to smile
+soñar			to dream
+sonreír			to smile
 soplar			to blow, to blow out
 sorprender		to surprise, to astonish
 sospechar		to suspect
@@ -460,7 +460,7 @@ suponer			to suppose, to assume
 suprimir		to suppress, to abolish, to cancel (math), to delete
 surgir			to surge, to spout up, to spring up, to appear/emerge
 suspirar		to sigh
-taner			to pluck, to play (stringed instrument)
+tañer			to pluck, to play (stringed instrument)
 telefonear		to telephone
 telegrafiar		to telegraph, to cable
 temblar			to tremble, to quake, to quiver, to shake, to shiver

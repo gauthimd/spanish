@@ -3,7 +3,7 @@ import random, time
 d = dict()
 n = 1
 for line in open('words.txt', 'r'):
-  if n < 1446: 
+  if n < 1495: 
     var = line.split('\t')
     d[var[len(var)-1]] = var[0]
     n += 1	

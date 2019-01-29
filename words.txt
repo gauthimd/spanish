@@ -319,8 +319,8 @@ la vena			vein
 alergia			allergy
 legumbres		pulse
 prótesis		prosthesis
-granos			pimples
-piel			skin
+los granos		pimples
+el piel			skin
 sangre			blood
 la cintura		waist
 el tobillo		ankle
@@ -442,8 +442,6 @@ suroeste		southwest
 sureste			southeast
 la hora			the hour
 busco			I look/search for
-estar			to be
-tomar			to take
 libre			free
 la dirección		address
 enseñar			to teach/show
@@ -461,7 +459,6 @@ salida			exit
 voltear			to turn/toss
 vuelta			turn 1
 giro			turn 2
-girar			to turn
 el museo		museum
 el mercado		market
 el cruce		intersection
@@ -957,7 +954,8 @@ abierto			open
 reparar			to repair
 cortar			to cut
 vacío			empty
-corriente		current
+corriente		current 1
+actual			current 2
 el teclado		keyboard
 el monitor		monitor
 la computadora portátil	laptop computer
@@ -1334,6 +1332,54 @@ mesita de noche		bedside table
 la mesita		the little table
 rejilla de ventilación	vent
 el dueño		owner
+el diente		tooth
+los dientes		teeth
+el bigote		mustache
+la barba		beard
+la barbilla		chin 1
+el mentón		chin 2
+la mejilla		cheek
+la boca			mouth
+la cara			face
+la ceja 		eyebrow
+la pestaña		eyelash
+el párpado		eyelid
+la sien			temple
+la arruga		wrinkle
+el labio		lip
+los labios		lips
+la oreja		ear
+la lengua		tongue
+la cabeza		head
+la frente		forehead
+la tez			complexion
+el cerebro		brain
+la encía		gum
+los oídos		inner ears
+la mandíbula		jaw
+la cruz			cross
+la campana		bell
+la biblia		bible
+el cementerio		cemetary
+el ángel		angel
+el diablo		devil
+Cristo			Christ
+el discípulo		pupil
+la petición		request
+la doctrina		doctrine/knowledge
+la codicia		greed/covetousness
+el quebranto		mishap/misfortune/loss
+la disposición		disposition/disposal
+el sacerdote		priest
+atrición		attrition
+autoestima		self esteem
+estrado			platform
+ordenanza		ordinance
+sagrado			sacred
+convento		convent
+la noticia		news
+la reunión		meeting
+embarazada		pregnant
 el verbo		verb
 ser 			to be (permanent)
 estar			to be (temp/location)
@@ -1444,3 +1490,6 @@ reinar			to rule/reign
 solicitar		to apply (for a job)/to request
 motivar			to motivate
 resolver		to solve
+molestar		to bother/to bug
+asistir			to attend
+girar			to turn
