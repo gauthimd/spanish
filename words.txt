@@ -566,7 +566,7 @@ el camión		truck
 la caja			box
 cajilla de seguirdad	security box
 la llave		key
-el plano		plan
+el plano		plan/map/flat
 el clavo		nail
 el martillo		hammer
 el nivel		level
@@ -740,6 +740,7 @@ fuera			outside 2
 fuera de		out of
 comer afuera		to eat out
 junto			together/next to
+tras			after/behind
 atrás			behind 1
 detrás 			behind 2
 abajo			under 1
@@ -788,6 +789,7 @@ a veces			sometimes
 aún			even/yet/still
 anoche			last night
 desde			since/from
+breve			brief/short
 en breve		soon/in a moment
 hace meses		months ago 1
 hace mes		months ago 2
@@ -1007,7 +1009,6 @@ la impresora laser	laser printer
 apoyo			support 1
 respaldo		support 2
 almacenar		to store
-asunto			subject
 apagón			blackout
 adjuntar		to attach
 acceso compartido	shared access
@@ -1029,7 +1030,7 @@ escáner			scanner
 fallo elétrico		electric failure
 fallo			decision/ruling/judgement
 fuera de servicio	out of service
-fondo			background
+fondo			bottom/back/end/background (computers)
 unidad de disco		disk unit
 base de datos		data base
 borrado de archivos	deletion of files
@@ -1155,7 +1156,7 @@ el asalto		assault
 homicidio premeditado	premeditated murder
 la pandilla		gang
 el terrorista		terrorist
-juicio			trial
+juicio			trial/judgement/good sense
 jurisdicción		jurisdiction
 jurado			jury
 sala del jurado		jury room
@@ -1260,7 +1261,7 @@ las ciencias sociales	social sciences
 la cultura		culture
 el papel		paper
 la pluma		pen/feather
-el equipo		team
+el equipo		team/equipment/outfit
 trabajo en equipo	teamwork
 la ocupación		occupation
 el escritorio		desk
@@ -1381,115 +1382,114 @@ la noticia		news
 la reunión		meeting
 embarazada		pregnant
 el verbo		verb
-ser 			to be (permanent)
-estar			to be (temp/location)
-tener			to have
-hacer			to do/make
-poder			to be able to (can)
-decir			to say/tell
-ir			to go
-ver			to see
-dar			to give
-comer			to eat
-beber			to drink
-saber			to know (info)
-querer			to want
-llegar			to arrive/come/reach
-pasar			to pass/spend time/to happen
-deber			to owe/must/shout/ought to
-poner			to put/place/set
-parecer			to seem/appear
-quedar			to stay/remain
-creer			to believe
-hablar			to speak
-llevar			to carry/bring
-dejar			to leave/abandom/to let/allow
-seguir			to follow/continue
-encontrar		to find/encounter
-llamar			to call/to name
-venir			to come
-pensar			to think
-salir			to leave/go out
-volver			to return/go back
-tomar			to take/drink
-conocer			to know (people/places)
-vivir			to live
-sentir			to feel/regret
-tratar			to treat/handle
-mirar			to watch/look at
-contar			to count/relate/tell
-empezar			to begin/start
-esperar			to wait for/to hope
-buscar			to search for/look for
-existir			to exist
-entrar			to enter/go in/come in
-trabajar		to work
-escribir		to write
-perder			to lose
-producir		to produce
-ocurrir			to occur/happen
-entender		to understand
-pedir			to request/ask for
-recibir			to receive/to welcome/greet
-recordar		to remember/remind
-terminar		to finish/end 1
-acabar			to finish/end 2
-permitir		to permit/allow
-aparecer		to appear/show up
-conseguir		to get/obtain
-comenzar		to begin/start/commence
-servir			to serve
-sacar			to take out/stick out
-necesitar		to need/require
-mantener		to maintain/get
-resultar		to turn out (to be)
-leer			to read
-caer			to fall
-cambiar			to change/alter
-presentar		to introduce
-crear			to create/to make
-abrir			to open
-considerar		to consider
-oír			to hear
-convertir		to convert/change
-ganar			to win/gain/earn/get/acquire
-formar			to form/shape/fashion/make
-traer			to bring/to get/fetch/to carry
-partir			to divide/to leave
-morir			to die
-aceptar			to accept/approve/to agree to
-realizar		to achieve/attain/accomplish
-suponer			to suppose
-comprender		to understand/comprehend
-lograr			to get/obtain/to achieve/attain
-explicar		to explain
-preguntar		to ask/inquire
-tocar			to touch/to play (instrument)
-reconocer		to recognize
-estudiar		to study
-alcanzar		to reach/catch up
-nacer			to be born
-dirigir			to direct
-correr			to run
-utilizar		to use/utilize
-pagar			to pay/pay for
-ayudar			to help
-gustar			to please/be pleasing
-jugar			to play (game/sport)
-escuchar		to listen/hear
-cumplir			to fulfil/carry out
-ofrecer			to offer
-descubrir		to discover
-levantar		to raise/to lift
-intentar		to try/attempt
-matar			to kill
-secuestrar		to kidnap
-testificar		to testify
-arrestar		to arrest
-reinar			to rule/reign
-solicitar		to apply (for a job)/to request
-motivar			to motivate
-resolver		to solve
-molestar		to bother/to bug
-asistir			to attend
-girar			to turn
+además			also/as well/besides
+modo			way/manner
+obra			work/deed
+según			according to
+siglo			century/age
+quizá(s)		maybe/perhaps
+demás			the rest/others
+medida			measurement
+capaz			capable/able
+común			common
+esfuerzo		effort/endeavor
+resto			rest/remainder/leftover
+proceso			process/procedure
+cabo			end/bit
+carrera			career/course/race
+ambos			both
+profundo		profound
+desarrollar		to develop
+desarrollo		development
+asunto			issue/matter
+matería			subject/matter
+mayoría			majority
+siquiera		at least/even if
+duro			hard
+pieza			piece/part
+pleno			complete/full
+dispuesto		willing/ready
+suelo			ground
+planta			plant
+éxito			success
+piedra			stone/rock
+conjunto		joint/collection
+espíritu		spirit/ghost/energy
+miembro			member/limb
+recurso			resource/recourse/means
+modelo			model
+propósito		purpose/intention
+puesto			job/place/position
+entero			entire/whole/complete
+amplio			ample/wide/broad
+par			pair/couple
+tamaño			size/dimension
+terreno			ground/earth/terrain
+recorrer		to travel around/to traverse
+frase			phrase
+artículo		article/product/item
+encuentro		meeting/game/skirmish
+raro			weird/strange/rare/scarce
+recién			just (in the near past)
+ritmo			rhythm
+mediante		by means of
+población		population
+pareja			couple
+etapa			stage/period
+sencillo		simple/plain/easy
+salvo			except (for)/but
+cielo			sky/heaven/ceiling
+práctica		practice/skill
+límite			limit
+masa			mass/dough/bulk/crowd
+energía			energy/power
+adecuado		adequate/suitable
+dado			given
+debido a		because of/due to
+hoja			leaf/sheet
+regla			rule/ruler/regulation
+riesgo			risk
+semejante		similar/alike
+fe			faith
+gesto			gesture
+fijo			fixed/steady
+acaso			by chance/maybe
+alcance			reach/scope
+escaso			scarce
+fundar			to found
+acontecimiento		event/happening
+arrastrar		to drag/pull
+alimento		food/nourishment
+lejano			distant/far off
+rama			branch/limb
+partida			game/match/departure
+aparato			apparatus/device
+ruido			noise
+ajeno			someone else's/foreign/alien
+moda			fashion/trend/style
+alejar			to move away
+tremendo		tremendous/dreadful/huge
+cadena			chain
+rey			king
+reina			queen
+ventaja			advantage/benefit
+en torno a 		about/regarding
+ánimo			zest/spirit/heart
+gasto			expense/expenditure
+atrever			to dare
+complejo		complex/complicated
+habitante		inhabitant
+criterio		criterion
+probablemente		probably
+pendiente		pending
+ausencia		absence
+reciente		recent
+premio			prize/reward
+comportamiento		behavior/conduct
+crítica			critique/criticism
+fino			fine/delicate
+norma			standard/norm
+rueda			wheel
+puente			bridge
+rasgo			feature/trait/act/gestures
+signo			sign/mark/symbol
