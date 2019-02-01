@@ -220,7 +220,7 @@ ayunar			to fast/go without food
 bailar			to dance
 bajar			to lower, to let down, to come down, to descend
 balbucear		to stammer, to hestitate (in speech)
-banarse			to bathe oneself, to take a bath
+bañarse			to bathe oneself, to take a bath
 bañar			to bathe
 barrer			to sweep, to whisk
 bastar			to be enough, to be sufficient, to suffice
