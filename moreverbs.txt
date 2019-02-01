@@ -1,6 +1,6 @@
 abajar/bajar		to go down
-abalanzarse		to hurl oneself
 abalanzar		to balance
+abalanzarse		to hurl oneself
 abalar			to move/to shake
 abalear			to shoot at/wound or kill by gunshot
 abalizar		to mark with buoys
@@ -8,277 +8,165 @@ abanar			to cool with a fan
 abandonar		to abandon
 abanicar		to fan
 abaratar		to make cheaper/reduce prices
-abatir			to knock down, throw down, to overthrow
 abdicar			to abdicate
 abducir			to abduct
 aberrar			to err/to be mistaken
 abjurar			to abjure/renounce
 ablandecer		to soften
-abnegarse		to go without/deny oneself
 abnegar			to abnegate/forego
+abnegarse		to go without/deny oneself
 abofetear		to slap in the face
 abominar		to abominate
-abonarse		to subscribe oneself
 abonar			to buy a subscription
+abonarse		to subscribe oneself
 abordar			to board
 aborrecer		to abhor/detest
-abrasar			to burn, to set on fire
-abrazar			to embrace, to hug, to clamp
 abrigar			to shelter/protect
-abrir			to open
 abrochar		to button up/fasten
 abrogar			to abrogate/revoke/annul
 abrumar/brumar		to crush/oppress/overwhelm
-absolver		to absolve, to acquit
 absorber		to absorb
-abstenerse		to abstain
 abstraer		to abstract
-aburrirse		to be bored, to grow tired, to grow weary
-aburrir			to annoy, to bore, to vex
 abusar			to abuse
-acabar			to finish, to end, to complete
 acachetear		to slap in the face
 acamar			to flatten
 acaparar		to buy up/hoard
 acceder			to accede/agree
 acechar			to watch/to spy on
-acelerar		to accelerate, to speed, to hasten, to hurry
 acentuar		to accentuate/mark with an accent
-aceptar			to accept
-acercarse		to approach, to draw near
-acercar			to bring near, to place near
 acertar			to guess right
-acertar			to hit the mark, to hit upon, to do/guess (thing) right
-aclamar			to acclaim, to applaud, to shout, to hail
-aclarar			to explain, to clarify, to make clear, to clear
 acoger			to receive hospitably/welcome
 acomodar		to accommodate/arrange/hire
-acompañar		to accompany, to escort, to go with, to keep company
 acompasar		to measure
-aconsejar		to advise, to counsel
 acopiar			to classify/collect/gather
-acordarse		to remember, to agree
-acordar			to agree (upon)
 acorrer			to run to someone's aid/help/assist
-acortarse		to go to bed, to lie down
 acostar			to put to bed
-acostumbrar		to be accustomed, to be in the habit of
 acrecentar		to increase
 acrecer			to augment/increase
 activar			to activate
 actuar			to act/behave
-acuchillar		to knife, to cut, to slash, to cut open
-acudir			to attend, to be present frequenly, to come to rescue
 acumular		to accumulate
-acusar			to accuse
 adaptar			to adapt
-adelantarse		to go forward, to go ahead, to move ahead, to take lead
-adelantar		to advance, to keep on, to progress, to go ahead
 adestrar		to train/instruct/direct
 adicionar		to add
-adivinar		to divine, to foretell, to guess, to solve
-adjustar		to adjust
 administrar		to administrate
-admirar			to admire
-admitir			to admit, to grant, to permit
-adoptar			to adopt
-adorar			to adore, to worship
 adornar			to adorn
-adquirir		to acquire, to get, to obtain
 adscribir		to ascribe/assign/attribute
 adular			to adulate/flatter
 advenir			to arrive/come
-advertir		to advise, to give notice
-afamarse		to become famous
 afamar			to make famous
+afamarse		to become famous
 afanar			to hurry/to rob/steal
 afear			to deform/make ugly
 afectar			to affect
-afeitarse		to shave oneself
 afeitar			to shave
 afianzar		to fasten
-aficionarse a		to become fond of
 aficionar		to induce a liking for
+aficionarse a		to become fond of
 afirmar			to affirm/assert
 afligir			to afflict/distress
 afluir			to flow
 afrontar		to confront/face
-agarrar			to grasp, to obtain, to seize, to catch, to clutch
-agitar			to agitate, to wave, to shake up, to stir
-agotar			to exhaust, to use up
-agradar			to please, to be pleasing
-agradecer		to thank, to be thankful for
-agrandar		to enlarge, to grow larger, to increase, to exaggerate
-agravar			to aggravate, to make worse
 agraviar		to wrong/injure/offend
-agregar			to add, to collect, to gather, to aggregate, to collate
 agriar			to make sour
 agrietar		to crack/split
-agrupar			to group
 aguachar		to flood/fill with water
 aguantar		to bear/endure
-aguardar		to expect, to wait for
 aguar			to dilute
 ahogarse		to drown
-ahorrar			to economize, to save
 ahumar			to cure in smoke/fill with smoke
+adjustar		to adjust
 alambrar		to fence with wire
 alanzar			to lance
 alardear		to boast/brag/show off
 alargar			to lengthen
 alarmar			to alarm
-alcanzar		to reach, to overtake
-alegrarse		to be glad, to rejoice, to be happy
 alentar			to breathe/encourage/inspire
 alienar			to alienate
 aligar			to bind/tie
 alimentar		to feed/nourish
 almacenar		to store
-almorzar		to lunch, to have lunch
 alocar			to make someone crazy
 alojar			to lodge/give accomodation to
-alquilar		to hire, to rent
-alumbrarse		to be (get) high, to get tipsy/lively (from liquor)
-alumbrar		to illuminate, to light, to enlighten
-alzar			to heave, to lift, to pick up, to raise (prices)
-amar			to love
 amplificar		to amplify/enlarge
-añadir			to add
 analizar		to analyze
-andar			to walk
 animar			to animate
 anotar			to annotate/write notes about
 antepagar		to pay in advance
 anteponer		to place before/to prefer
 anular			to annul/cancel
-anunciar		to announce, to foretell, to proclaim
 apaciguar		to pacify/calm/soothe
-apagar			to put out (flame, fire), to extinguish, to turn off
 aparar			to prepare
-aparecer		to appear, to show up
 apetecer		to crave for/long for
-aplaudir		to applaud
 aplicar			to apply
 apocar			to lessen/reduce
-apoderarse		to take power, to take possession
 apoderar		to empower
 apostar			to bet/wager
-apreciar		to appreciate, to appraise, to esteem
 aprehender		to apprehend
-aprender		to learn
 aprestar		to make ready/prepare
-apresurarse		to hasten, to hurry, to rush
 apresurar		to accelerate/hurry
 apretar			to grip/press
-aprobar			to approve, to pass a test
 apropiar		to appropriate money/adapt
-aprovecharse		to take advantage, to avail oneself
 aprovechar		to make use of
-apurarse		to fret, to grieve, to worry
 apurar			to purify/exhaust/consume
 arar			to plow
 argüir			to argue/reason
 armar			to arm
-arrancar		to pull up, to boot (computer), to start (motor), snatch
-arreglar		to fix, to arrange, to regulate
 arrendar		to lease/let/rent
 arrepentirse de		to repent for/regret
 arrestar		to arrest/detain
-arrojar			to fling, to hurl, to throw
-articular		to articulate, to pronounce distinctly
 asaltar			to assault/attack
-asegurar		to assure, to affirm, to assert
 asentar			to seat/set down
 asentir			to assent/agree
-asir			to seize, to grasp
-asistir			to attend, to assist, to be present
-asomarse		to lean out/look out (as out a window)
 asomar			to appear slowly (as through an opening)
+asomarse		to lean out/look out (as out a window)
 asombrar		to amaze/astonish
 aspirar			to breathe in/inhale
 asurarse		to get burned
-asustarse		to be frightened, to be scared
-atacar			to attack
 atar			to bind/tie
 atender			to look after/attend to/pay attention
-atenerse		to rely on, to depend on
 aterrizar		to land
-atraer			to attract, to allure, to charm
-atravesar		to cross, to go through, to run through
 atravesar/travesar	to cross/cross over/go through
-atreverse		to dare, to venture
 atribuir		to attribute
 aumentar		to augment/increase
 autorizar		to authorize	
-avanzar			to advance
 avenir			to reconcile
 aventurarse		to venture/risk
-averiguar		to find out, to inquire, to investigate
 avisar			to advise/inform/warm/notify
-ayudar			to help, to aid, to assist
 ayunar			to fast/go without food
-bailar			to dance
-bajar			to lower, to let down, to come down, to descend
-balbucear		to stammer, to hestitate (in speech)
-banarse			to bathe oneself, to take a bath
 bañar			to bathe
-barrer			to sweep, to whisk
-bastar			to be enough, to be sufficient, to suffice
 batallar		to fight/battle/struggle
 batir			to beat/whip
-bautizar		to baptize, to christen
-beber			to drink
-bendecir		to bless, to consecrate
 besar			to kiss
 blasfemar		to blaspheme/curse
 bogar			to row
 bonificar		to increase production
-borrar			to erase, to cross out
-bostezar		to yawn, to gape
-botar			to fling, to cast (away), to throw (away), to launch
 boxear			to box
 bregar			to fight/brawl
 brillar			to shine
 brincar			to bounce/jump/skip
 brindar			to offer/invite/drink a toast
 bromear			to joke
-broncear		to bronze, to tan
 brumar/abrumar		to crush/oppress/overwhelm
 bufonearse		to jest/joke
-bullir			to boil, to bustle, to hustle, to stir
 burbujear		to bubble
-burlarse		to make fun of, to poke fun at, to ridicule
-buscar			to look for, to seek
 cabecear		to nod one's head when sleepy
-caber			to be contained, to fit into
 cachar			to break into pieces
-caerse			to fall, to fall down, to tumble
-caer			to fall
 calar			to drench/soak
 calcar			to trace/copy
 calcular		to calculate
-calentar		to heat (up), to warm (up)
 calificar		to assess/rate/classify
-callarse		to be silent, to keep quiet
 calmar			to calm
-calzar			to shoe, to wear (shoes), to put on (shoes)
-cambiar			to change, to exchange
-caminar			to walk, to move along
 camorrear		to quarrel
 cancelar		to cancel/strike out
 candar			to lock
-cansarse		to become tired, to become weary, to get tired
 cantalear		to hum/sing softly
-cantar			to sing
 cantonear		to idle/loaf/wander about
 capar			to castrate/cut off
 captar			to capture/win trust
-caracterizar		to characterize
 carcajear		to burst out laughing
 carecer de		to be in need of/to lack
 cargarse de		to be overloaded with
-cargar			to load, to burden, to charge (a battery)
-casarse			to get married, to marry
 castigar		to chastise/punish
 castrar			to castrate/to dry a wound
 catar			to sample/taste
@@ -287,31 +175,23 @@ cautivar		to capture/captivate/charm
 cazar			to hunt/chase
 ceder			to cede/yield
 cegar			to blind/block up/to grow blind
-celebrar		to celebrate, to praise
-cenar			to have supper, to eat supper, to dine, to have dinner
 censurar		to censure
-cepillar		to brush
 cercar			to fence in, enclose
-cerrar			to close
-certificar		to certify, to register (a letter), to attest
 cesar			to cease/stop
-chafarse		to become flattened
 chafar			to crease/crumple (clothes)
+chafarse		to become flattened
 chamar			to barter/exchange
 chamuscar		to singe/scorch
 chapar			to cover/plate with silver or gold
 charlar			to chatter/prattle
-charlar			to chat, to prattle
 chascar			to crunch
 chiflar			to whistle/blow a whistle
 chillar			to scream/shriek
 chinchar		to annoy/irritate
 chismear		to gossip
-chistar			to mumble, to mutter
 chocar			to collide/crash
 chuchear		to whisper
 chufar			to mock
-chupar			to suck
 circular		to circulate/move
 citar			to make an appointment/cite/quote
 civilizar		to civilize/become civilized
@@ -322,21 +202,14 @@ clasificar		to classify
 clavar			to nail
 cobijar			to cover/shelter
 cocer			to cook
-cocinar			to cook
 codear			to elbow/nudge
-coger			to seize, to take, to grasp, to grab, to catch, to get
 colar			to filter/strain
 colear			to wag/move
-colegir			to collect
-colgar			to hang (up)
-colocar			to put, to place
 colorar			to color/give color
 colorear		to color/tint
 comandar		to command
 combatir		to combat/fight
 comentar		to comment
-comenzar		to begin, to start, to commence
-comer			to eat
 cometer			to commit/entrust
 comparar		to compare
 compartir		to divide/share
@@ -345,9 +218,6 @@ compilar		to compile
 complacer		to please
 completar		to complete
 complicar		to complicate
-componer		to compose
-comprar			to buy, to purchase
-comprender		to understand
 comprobar		to check/verify/confirm
 computar		to compute/calculate
 comunicar		to communicate
@@ -356,101 +226,63 @@ conceder		to concede
 concentrar		to concentrate
 concluir		to conclude
 condenar		to condemn
-conducir		to lead, to conduct, to drive
-confesar		to confess
 confiar			to trust/entrust
 confirmar		to confirm
 confiscar		to confiscate
 conformar		to conform
 congelar		to congeal/freeze
 conjugar		to conjugate
-conocer			to know, to be acquainted with
-conseguir		to obtain, to get, to attain
 consentir		to consent/allow
 considerar		to consider
 consolar		to console
 conspirar		to conspire/plot
 constar			to be clear/consistent
 constatar		to prove/verify
-constituir		to constitute, to make up
-construir		to construct, to build
 consultar		to consult
-contar			to count, to relate, to tell
 contemplar		to contemplate/meditate
-contener		to contain, to hold, to restrain
 contentar		to gratify/please
-contestar		to answer, to reply (to)
-continuar		to continue
 contradecir		to contradict
 contraponer		to compare/contrast
 contratar		to contract/engage/hire
-contribuir		to contribute, to pay taxes
 controlar		to control
 convalecer		to convalesce
-convencer		to convince
-convenir		to agree, to convene, to be fitting
 conversar		to converse
-convertir		to convert
-convocar		to call together, to convene, to convoke, to summon
 copiar			to copy
-corregir		to correct
-correr			to run, to race, to flow
 corresponder		to correspond
 corromper		to corrupt
-cortar			to cut, to cut off, to cut out
 cosechar		to harvest
-costar			to cost
 crear			to create
-crecer			to grow
-creer			to believe
-criar			to breed, to raise, to bring up (rear)
 criticar		to criticize
-cruzar			to cross
-cubrir			to cover
 cuestionar		to debate/discuss
-cuidarse		to take care of oneself
-culparse		to blame oneself
 culpar			to blame/accuse
+culparse		to blame oneself
 cultivar		to cultivate/grow
-cumplir			to fulfill, to keep (a promise), to reach ones b-day
 cumular			to accumulate
 curar			to cure
-dañarse			to become damaged/injured
 dañar			to damage/injure
+dañarse			to become damaged/injured
 danzar			to dance
-dar			to give
 datar			to date (a letter, an account)
 debatir			to debate
-deber			to owe, must, ought
 decantar		to exaggerate/pour off
 decentar		to cut into/begin cutting
-decidir			to decide
-decir			to say, to tell
 declamar		to declaim/recite
-declarar		to declare
 declinar		to decline/get weak
 decorar			to decorate
-dedicarse		to devote oneself
 dedicar			to dedicate
-defender		to defend
 deferir			to defer/delegate
 definir			to define
 deformar		to deform
-dejar			to let, to permit, to allow, to leave
 delatar			to denounce/accuse
 delegar			to delegate
-delinquir		to be delinquent, to violate the law
 demandar		to demand/petition/sue
 demarcar		to demarcate/delimit
 demoler			to demolish/pull down
-demostrar		to demonstrate, to prove
 denegar			to deny/refuse
 denotar			to denote
 dentar			to teethe/provide with teeth/indent
-denunciar		to denounce
 deparar			to provide/supply
 departir		to converse
-depender		to depend
 depilar			to depilate/remove hair
 deplorar		to deplore
 depositar		to deposit/place/put
@@ -458,9 +290,8 @@ depreciar		to depreciate
 derogar			to derogate/abolish
 derramar		to spill
 derretir		to melt/dissolve
-derribar		to knock down, to overthrow, to tear down, to throw down
-desacordarse		to become forgetful
 desacordar		to be in discord
+desacordarse		to become forgetful
 desalentar		to make breathless/put out of breath
 desalojar		to move out/vacate
 desamparar		to abandon/forsake
@@ -471,12 +302,10 @@ desaprender		to unlearn
 desarrollar		to develop
 desarticular		to disarticulate
 desayudar		to hinder/impede
-desayunarse		to breakfast, to have breakfast
 desbaratar		to ruin/wreck
 descalificar		to disqualify
 descambiar		to cancel an exchange
 descaminar		to mislead/lead astray
-descansar		to rest
 descargar		to unload
 descender		to descend/go down
 descolgar		to unhook/take down from hanging position
@@ -485,162 +314,103 @@ descomponer		to disarrange/disrupt/disturb
 desconcertar		to disconcert/upset
 desconectar		to disconnect
 descontar		to discount/deduct/disregard
-describir		to describe, to delineate
-descubrir		to discover, to reveal, to uncover, to unveil
 descuidarse		to be negligent/careless
 desdeñarse		to be disdainful
-desear			to desire, to wish, to want
 desechar		to reject
-desempeñar		to play (a part), to act (a part), to discharge, 
 desencantar		to disenchant
 desenvolver		to unwrap
 desfijar		to pull out/unfix
 desgajar		to rip off/tear off
 desganarse		to lose one's apetite
-deshacer		to undo, to destroy, to take apart
 designar		to designate
 desinfectar		to disinfect
 desmentir		to disprove/prove false
-desnudarse		to undress oneself
 desnudar		to undress
+desnudarse		to undress oneself
 desobedecer		to disobey
 desocupar		to vacate
 desordenar		to disarrange
 desorganizar		to disorganize
-despedirse		to take leave of, to say good-bye to
 despedir		to dismiss/fire/discharge
-despegar		to detach, to unglue, to unstick, to take off (airplane)
-desperezarse		to stretch oneself, to stretch one's arms and legs
-despertarse		to wake up oneself
 despertar		to wake up (someone)
 desplegar		to unfold/unfurl/spread out
 desterrar		to bannish/exile
-destruir		to destroy
 desvalorizar		to depreciate/devalue
-desvestirse		to undress oneself, to get undressed
 desviar			to divert
-detenerse		to stop (oneself)
-detener			to stop (someone or something), to detain
 determinar		to determine
-devolver		to return (an object), to refund, to give back
-dibujar			to design, to draw, to sketch
 dictar			to dictate
 diferir			to differ/defer/post-pone/delay
 digerir			to digest
-dirigir			to direct
-disculparse		to apologize, to excuse (oneself)
 discursar		to discourse/make a speech
-discutir		to discuss, to debate
 diseminar		to disseminate/spread
 disfrutar		to enjoy
 disimular		to dissemble/pretend/cover up
 disolver		to dissolve
-dispensar		to excuse, to dispense, to distribute, to exempt
 disponer		to dispose
-distinguir		to distinguish
 distraer		to distract
 distribuir		to distribute
 disturbar		to disturb
 disuadir		to dissuade
-divertirse		to have a good time, to enjoy oneself, to amuse oneself
 divertir		to amuse/distract/entertain
 dividir			to divid
-divorciarse		to be (get) divorced
 divulgar		to divulge/make known
-doler			to ache, to pain, to hurt, to cause grief/regret
 dorar			to gild/cover with gold
-dormir			to sleep
 dotar			to endow/bequeath/give a dowry
 driblar			to dribble
-ducharse		to take a shower, to shower oneself
-dudar			to doubt
-echar			to cast, to fling, to hurl, to pitch, to throw
 editar			to publish
 educar			to educate/instruct/rear/bring up
-ejecutar		to execute, to carry out, to perform
-ejercer			to exercise, to practice
 elaborar		to elaborate/manufacture
-elegir			to elect, to select, to choose
 embalar			to pack/create
 embarcar		to embark/go on board
 embargar		to impede/hamper
-embeber			to soak in, to soak up, to suck in, to imbibe
 embocar			to cram down food/gulp down
 emborronar		to scribble
 emitir			to emit/send forth
 empapar			to drench/soak
-empezar			to begin, to start
-emplear			to employ, to use
-enamorarse de		to fall in love with
 enamorar		to enamor/inspire love
-encender		to incite, to inflame, to kindle, to light
-encerrar		to enclose, to lock up, to confine
+enamorarse de		to fall in love with
 enchufar		to connect/plug in
 encomendar		to commend/entrust
-encontrar		to meet, to encounter, to find
-enfadarse		to become angry, annoyed, irritated
 enfadar			to anger/irritate
-enfermarse		to get sick, to fall sick, to become sick, to fall ill
 enfriar			to cool/chill
 engañarse		to deceive oneself/be mistaken
 engordar		to fatten/grow fat/put on weight
 enjuagar		to rinse
 enmendar		to amend/revise/correct
-enojarse		to become angry, to get angry, to get cross
 enojar			to annoy/irritate
 enrollar		to wind/roll up
 ensayar			to test/try/rehearse
-enseñar			to teach, to show, to point out
 ensillar		to saddle
 ensolver		to include/reduce/condense
 ensuciar		to dirty/soil/stain
 entenderse		to understand each other/be understood
-entender		to understand
-enterarse de		to find out about
 enterar			to inform
+enterarse de		to find out about
 enterrar		to bury/inter/forget
-entrar			to enter, to go (in), to come (in)
 entregarse		to surrender/give in
-entregar		to deliver, to hand over, to give
-entretenerse		to amuse oneself
 entretener		to entertain/amuse
+entretenerse		to amuse oneself
 entrever		to catch a glimpse
 entrevistar		to interview
-enunciar		to enunciate, to state
 envestir		to clothe
-enviar			to send
 envolverse		to become involved
-envolver		to wrap up
-equiparar		to compare/match/make equal
 equipar			to equip
+equiparar		to compare/match/make equal
 equivaler		to equal
-equivocarse		to be mistaken, to make a mistake
 equivocar		to mistake
-erguir			to raise, to stand up straight
-errar			to err, to wander, to roam, to miss
 eructar			to belch/burp
 escalar			to climb
 escapar			to escape
 escarnecer		to ridicule/mock
-escoger			to choose, to select, to pick
-esconderse		to hide oneself
 esconder		to conceal/hide
-escribir		to write
-escuchar		to listen (to)
+esconderse		to hide oneself
 escupir			to spit
-esforzarse		to make an effort
 esforzar		to strengthen/encourage
+esforzarse		to make an effort
 espantar		to frighten/scare
-esparcir		to scatter, to spread
-esperar			to expect, to hope, to wait (for)
 esposar			to handcuff
-esquiar			to ski
-establecer		to establish, to set up
 estacionar		to station/park (a vehicle)
-estar			to be
-estimar			to estimate, to esteem, to respect, to value
 estrechar		to narrow/tighten
-estudiar		to study
 evacuar			to evacuate
 evitar			to avoid
 evocar			to evoke/recall
@@ -652,155 +422,104 @@ exclamar		to exclaim
 excluir			to exclude
 excusar			to excuse
 exhalar			to exhale
-exigir			to demand, to urge, to require
 existir			to exist
 expedir			to expedite
-explicar		to explain
 explorar		to explore
 exponer			to expose
 exportar		to export
-expresar		to express
 extender		to extend
 extinguir		to extiguish
 extraer			to extract/draw out
-extrañarse		to be surprised/amazed
 extrañar		to surprise/to miss
-fabricar		to fabricate, to manufacture
+extrañarse		to be surprised/amazed
 facilitar		to facilitate
 fallar			to trump/fail
 falsear			to falsify/misrepresent
 falsificar		to falsify/forge
-faltar			to be lacking, to be wanting, to lack, to miss, to need
 familiarizar		to familiarize
 fantasear		to daydream
 farolear		to boast/brag/show off
 fascinar		to fascinate
 fastidiar		to annoy/pester
 fatigar			to fatigue/tire
-felicitar		to congratulate, to felicitate
-festejar		to feast, to entertain, to celebrate
-fiar			to confide, to trust
-figurarse		to imagine
 figurar			to depict/draw/represent
-fijarse			to take notice, to pay attention, to settle
+figurarse		to imagine
 fijar			to fix/fasten
-fingir			to feign, to pretend
-firmar			to sign
 fluir			to flow
-formar			to form, to shape
 formular		to formulate
 forzar			to force
 fotocopiar		to photocopy
-fregar			to wash dishes, to scrub
-freir			to fry
 frotar			to rub
 fruncir			to knit (eyebrows)/to purse (lips)
 frustrar		to frustrate
-fumar			to smoke
-funcionar		to function, to run (machine)
 fusilar			to shoot
 fusionar		to combine/merge
 fustigar		to whip
 galantear		to woo/make eyes at
 galopar			to gallop
-ganar			to earn, to gain, to win
 gandulear		to idle/loaf
 gansear			to say/do stupid things
 garabatear		to scribble
 garbear			to show off
 garlar			to chatter/prattle
-gastar			to spend (money), to wear out, to waste
 gatear			to crawl
-gemir			to grieve, to groam, to moan, to howl
 generar			to generate/produce
 girar			to turn around/spin
-gobernar		to govern, to rule
 golpear			to crush/hit/strike
 golpetear		to pound/hammer
 gorjear			to warble/gurgle
 gormar			to vomit/spew
 gotear			to drip
-gozar			to enjoy
 grabar			to engrave
 gratar			to brush/rub
 gravar			to burden
 gravitar		to gravitate
-gritar			to shout, to scream, to cry out
-grunir			to grumble, to grunt, to growl, to creak
 guardar			to keep/guard/save
-guiar			to lead, to guide
 guipar			to notice/see
 guisar			to cook
-gustar			to be pleasing (to), to like
-haber			to have (aux verb), helping verb to form compound tenses
-habitar			to inhabit, to dwell
-hablar			to talk, to speak
-hacer			to do, to make
 hacinar			to pile up/stack
 hadar			to foretell
 halagar			to flatter
-hallar			to find, to discover, to locate
 hambrear		to starve
 haraganear		to idle/loaf
 heder			to stink
-helar			to freeze
-heredar			to inherit
-herir			to harm, to hurt, to wound
 hervir			to boil
 holgar			to rest/be idle
 honrar			to honor
-huir			to escape, to flee, to run away, to slip away
 hurtar			to rob/steal
-ignorar			to be ignorant of, not to know
+indentificar		to indentify
 iluminar		to illuminate
-ilusionarse		to have illusions
 ilusionar		to fascinate
+ilusionarse		to have illusions
 ilustrar		to illustrate/enlighten/explain
 imaginar		to imagine
 imbuir			to imbue
 imitar			to imitate
-impedir			to hinder, to impede, to prevent
 implicar		to implicate
 implorar		to implore
 imponer			to impose
-importar		to matter, to be important
 impresionar		to impress
-imprimir		to imprint, to impress, to print, to fix in the mind
 incendiar		to set on fire
 incitar			to incite
 inclinar		to incline/tilt
-incluir			to include, to enclose
-indentificar		to indentify
-indicar			to indicate, to point out
-inducir			to induce, to influence, to persuade, to lead
 inferir			to infer
 influenciar		to influence
-influir			to influence, have influence on
-informarse		to inform oneself, to find out
 informar		to inform
 iniciar			to initiate/begin
 inmigrar		to immigrate
 inocular		to inoculate
-inscribirse		to enroll, to register, to sign up
-inscribir		to inscribe, to record, to register
-insistir		to insist, to persist, to stress
 inspirar		to inspire
 instituir		to institute/found
 instruir		to instruct/teach
-interesarse		to be interested in
 interponer		to interpret
 interrogar		to interrogate
 intimidar		to intimidate
-introducir		to introduce
 inventar		to invent
 invertir		to invert/turn upside down
 investigar		to investigate
 investir		to invest/endow
-invitar			to invite
 invocar			to appeal/call upon
 irritar			to irritate
-irse			to go away
-ir			to go
 jabonar			to soap/lather
 jacarear		to annoy/to roam the streets at night singing 
 jactarse		to boast/brag
@@ -809,48 +528,26 @@ jalar			to pull
 jamar			to eat
 jarapotear		to stuff with drugs/medicines
 jetar			to dilute/dissolve
-jugar			to play (a game, sport)
-juntar			to join, to unite, to connect
-jurar			to swear, to take an oath
 justar			to joust/tilt
 justificar		to justify
-juzgar			to judge
 ladrar			to bark
 ladronear		to shoplift
 lagrimar		to cry/weep/shed tears
 lamentar		to lament
 lamer			to lick
 laminar			to laminate
-lanzar			to throw, to hurl, to fling, to launch
-lastimarse		to hurt oneself, to feel sorry for, to complain
-lavarse			to wash oneself
-lavar			to wash
-leer			to read
-levantarse		to get up, to rise
-levantar		to lift, to raise
 limar			to file/polish/smooth
-limpiarse		to clean oneself
-limpiar			to clean
 llagar			to injure/hurt/wound
-llamarse		to be called, to be named
-llamar			to call, to name
 llamear			to blaze/flame
-llegar			to arrive
-llenar			to fill
-llevar			to carry (away), to take (away), to wear
-llorar			to weep, to cry, to whine
 lloriquear		to whimper/whine
-llover			to rain
 lloviznar		to drizzle
 localizar		to localize/locate/find
 lograr			to achieve/attain/get
 lubricar		to lubricate
-luchar			to fight, to strive, to struggle, to wrestle
 lustrar			to polish/cleanse
 machar			to beat/crush
 magullar		to batter/bruise
 majar			to crush/mash
-maldecir		to curse
 malear			to ruin/spoil
 maleficiar		to damage/harm/injure
 malgastar		to squander/waste
@@ -858,54 +555,28 @@ maliciar		to fear/suspect
 maltratar		to maltreat/abuse
 manchar			to spot/stain/blot
 mandar			to command/order
-manejar			to manage, to handle, to drive, to operate (a vehicle)
 manipular		to manipulate
-mantener		to maintain, to keep up, to support, to provide for
 maquillarse		to put on makeup
 marcar			to dial (phone)/mark/score (goal)
-marcar			to mark, to note, to observe
-marcharse		to go away, to leave
-marchar			to walk/march, to function (machine), to run (machine)
 mascar/masticar		to chew/masticate
-matar			to kill
-medir			to measure, to weigh, to scan (verses)
 meditar			to meditate
-mejorar			to improve
-mencionar		to mention
 mendigar		to beg
-mentir			to lie, to tell a lie
-merecer			to merit, to deserve
 merendar		to have a snack/refreshment
 meter			to put in/into
 mimar			to pamper/spoil/indulge
-mirarse			to look at oneself, to look at each other 
-mirar			to look, to look at, to watch
 mitigar			to mitigate/allay/alleviate
 modular			to modulate
-mojarse			to get wet, to wet oneself
 moler			to crush/grind/mill
 molestar		to bother/annoy
 monear			to clown (monkey) around
-montar			to mount, to go up/get on, to climb, to wind (a watch)
-morder			to bite
-morir			to die
-mostrar			to show, to point out, to display
-mover			to move, to persuade, to excite
-mudarse			to change one's clothes, to change residence, to move
 murmurar		to murmur/mutter
 mutilar			to mutilate
-nacer			to be born
 nacionalizar		to nationalize/naturalize
-nadar			to swim
 narrar			to narrate
 naturalizar		to naturalize
 nausear			to feel nauseated/sick
-navegar			to navigate, to sail
 necear			to talk nonsense
-necesitar		to need
-negar			to deny
 negociar		to negotiate
-nevar			to snow
 niñear			to behave childishly
 nombrar			to name/appoint
 notar			to note
@@ -914,179 +585,113 @@ notificar		to notify/inform
 numerar			to number
 nutrir			to feed/nourish
 obcecar			to blind
-obedecer		to obey
 objetar			to object
 obligar			to oblige/compel
 obliterar		to obliterate/erase
 obrar			to build/work
 obscurecer		to darken
 obsequiar		to entertain/compliment
-observar		to observe, to notice
 obstar			to obstruct/impede/hinder
 obstinarse		to be obstinate/stubborn
 obstruir		to obstruct/block
-obtener			to obtain, to get
-ocultarse		to hide oneself
-ocupar			to occupy
-ocurrir			to occur, to happen
 oficiar			to officiate
-ofrecer			to offer
 ofuscar			to dazzle
-oir			to hear
-oler			to smell, to scent
 olfatear		to smell/sniff
-olvidar			to forget
 ominar			to predict/foretell/forecast
 omitir			to omit
 ondular			to undulate/wind
 operar			to operate
 opinar			to opine/think/have an opinion
-oponer			to oppose
 optar			to opt/choose
 orar			to pray
-ordenar			to order, to command, to put in order, to arrange
-organizar		to organize, to arrange, to set up
 ornar			to adorn/decorate
-osar			to dare, to venture
 oscilar			to oscillate/swing
 otorgar			to grant/concede
 padecer			to suffer/endure
-pagar			to pay (for)
 paginar			to paginate
 paladear		to savor/taste/relish
 palmear			to clap hands
 palpar			to feel/touch
 palpitar		to palpitate/beat/throb
 papar			to swallow soft food without chewing
-paracer			to seem, to appear
-pararse			to stop (oneself)
-parar			to stop (someone or something)
-parecerse		to resemble each other, to look alike
 parpadear		to blink/wink
 participar		to participate
-partir			to leave, to depart, to divide, to split
-pasar			to pass (by), to happen, to spend (time)
-pasearse		to take a walk, to parade
 patear/patalear		to kick
 patinar			to skate/skid/slide
 pausar			to pause
 pecar			to sin
-pedir			to ask for, to request
-pegar			to beat, to hit, to slap, to stick, to glue, to paste
-peinarse		to comb one's hair
 pelear			to fight
 penetrar		to penetrate
-pensar			to think
-percibir		to perceive
-perder			to lose
-perdonar		to pardon, to forgive, to excuse
 perdurar		to last a long time
+purfumar		to perfume
 permanecer		to remain/stay
-permitir		to permit, to admit, to allow, to grant
 perseguir		to pursue
 persistir		to persist
 persuadir		to persuade
-pertenecer		to pertain, to appertain, to belong
 pesar			to weigh
 pescar			to fish
 pestañear		to wink/blink
 picar			to prick/puncture/pierce
 pilotar/pilotear	to pilot
-pintarse		to make up (face), to color (one's hair, lips, etc)
-pintar			to paint
-pisar			to tread (on), to step on, to trample
-placer			to gratify, to humor, to please
 plagar			to infest/plague
 planchar		to iron
 planear			to plan/design/glide
 plantar			to plant
-platicar		to chat, to talk over, to discuss
 plegar			to fold/pleat
 poblar			to populate
-poder			to be able, can
-ponerse			to put on (clothing), to become, to set (of sun)
-poner			to put, to place, to turn on (TV, radio)
 posar			to pose/put/lay down
-poseer			to possess, to own
 posponer		to postpone
-practicar		to practice
-preciarse		to brag about oneself
 preciar			to appraise/value
+preciarse		to brag about oneself
 precipitar		to precipitate
-predecir		to predict, to forecast, to foretell
-predicar		to preach
 predisponer		to predispose
 predominar		to predominate
-preferir		to prefer
-preguntar		to ask, to inquire, to question
-preocuparse		to be concerned, to worry, to be worried
-prepararse		to be prepared, to get ready, to prepare oneself
-preparar		to prepare
 preponer		to put before
 prescribir		to prescribe
-presentar		to present, to display, to show, to introduce
 preservar		to preserve
-prestar			to lend
 presuponer		to presuppose
 prevaler		to prevail
 prevenir		to warn
 prever			to forsee
-principiar		to begin
 privar			to deprive
-probarse		to try on (clothes)
-probar			to test, to prove, to try, to try on
 proceder		to proceed
 procesar		to prosecute
-proclamar		to proclaim, to promulgate
 procurar		to endeavor/try/strive for
-producir		to produce, to cause
 proferir		to utter/say
 profesar		to profess
 programar		to program
 progresar		to progress
-prohibir		to prohibit, to forbid
 prolongar		to prolong
 prometer		to promise
 promulgar		to promulgate/announce
-pronunciar		to pronounce
 propagar		to propagate/announce
 proponer		to propose
 proporcionar		to furnish/supply/provide
 proscribir		to proscribe/banish
 proseguir		to continue/follow up/proceed
 prosperar		to prosper
-proteger		to protect
 protestar		to protest
 provenir		to originate/come from
 provocar		to provoke
 publicar		to publish/issue
 pugnar			to fight
 pujar			to struggle
-pulir			to polish
 pulsar			to pulse/throb
 punchar			to pierce/puncture
 puntar			to dot
-purfumar		to perfume
 quebrar			to break/smash
-quedarse		to remain, to stay
-quejarse		to complain, to grumble
-quemar			to burn, to fire
 querellarse		to file a legal complaint/bring suit against
-querer			to want, to wish
 quesear			to make cheese
-quietarse		to calm oneself
 quietar			to quiet/calm
+quietarse		to calm oneself
 quillotrar		to incite/excite
 quimerizar		to have fanciful ideas
-quitarse		to take off (clothing), to remove oneself, to withdraw
 rabiar			to rage
 racionar		to ration
-raer			to scrape, to rub off, to erase, to wipe out, to fray
 rascar			to scratch/itch
 rasgar			to rip/tear
 raspar			to scrape
 rasurarse		to shave one's beard
-realizar		to realize, to carry out, to fulfill
 reanimar		to reanimate/revive
 reaparecer		to reappear
 rearmar			to rearm
@@ -1100,47 +705,35 @@ recalentar		to reheat/warm up/warm over
 recapitular		to recapitulate
 recargar		to reload/overload
 rechazar		to reject/repel
-recibir			to receive, to get
 reciclar		to recycle
 recitar			to recite
 reclamar		to reclaim/claim/demand/protest
-reclinarse en/sobre	to lean on/upon
 reclinar		to recline/lean
-recoger			to pick (up), to gather, to harvest, to collect
-recomendar		to recommend, to commend, to advise
-reconocer		to recognize, to acknowledge, to be grateful for
+reclinarse en/sobre	to lean on/upon
 reconstruir		to rebuilb/reconstruct
 reconvenir		to reprimand/rebuke
 recopilar		to compile
-recordar		to remember, to recall, to remind
-recrearse		to amuse/entertain
 recrear			to amuse/entertain
+recrearse		to amuse/entertain
 recular			to recoil/go backwards
 recuperar		to recuperate/recover
 redactar		to edit
 reeditar		to reprint/publish again
 reeligir		to reelect/elect again
-referir			to refer, to relate
 refinar			to refine
 reflexionar		to reflect
 reformar		to reform/alter/revise
 regalarse		to indulge oneself
-regalar			to give as a present, to make present of, to give gift
-regar			to water, to irrigate, to sprinkle
 registrar		to register/record/examine
-regresar		to return, to go back, to regress
 rehacer			to do over/redo
 rehuir			to avoid/shun
 rehusar			to refuse
-reirse			to laugh
-reir			to laugh
 reiterar		to reiterate/repeat
 relanzar		to throw back/repel
 relatar			to relate/narrate
-relavarse		to wash oneself again
 relavar			to wash again
+relavarse		to wash oneself again
 releer			to reread/read again
-rellenar		to refill, to fill again, to stuff
 relumbrar		to dazzle/sparkle
 remandar		to send over and over again
 remarcar		to mark again
@@ -1151,23 +744,18 @@ rememorar		to remember
 remendar		to mend
 remeter			to put back
 remirar			to look at over again
-remitir			to remit, to forward, to transmit
 remojar			to soak
 remontar		to elevate/raise/frighten away
 remorder		to bite again
 remover			to remove/take away
 renacer			to be born again/reborn
 renegar			to renege/deny/abhor
-renir			to scold, to quarrel
 renunciar		to renounce
 reorganizar		to reorganize
 repararse		to restrain oneself
-reparar			to mend, to repair, to notice, to observe
-repartir		to distribute, to deal cards
 repasar			to review/go over again
 repensar		to rethink/reconsider
 repesar			to weigh again
-repetir			to repeat
 repintar		to repaint
 replantar		to replant
 replicar		to retort/reply
@@ -1187,10 +775,8 @@ resaludar		to return someone's greeting
 rescatar		to ransom/rescue
 reservar		to reserve
 resistir		to resist
-resolver		to resolve, to solve (a problem)
 respetar		to respect
 respirar		to breathe/respire
-responder		to answer, to reply, to respond
 restaurar		to restore
 restituir		to refund/give back
 resucitar		to resuscitate/bring back to life
@@ -1199,44 +785,36 @@ resumir			to summarize/sum up
 resurgir		to resurge/spring up again
 retacar			to hit twice (a ball)
 retajar			to cut around
-retardar		to retard/slow down
 retar			to challenge
+retardar		to retard/slow down
 retemblar		to shake/tremble
 retener			to retain
-retirar			to retire, to withdraw
 retocar			to touch up/retouch
 retostar		to toast again
 retraducir		to translate over again
 retraer			to bring again/bring back
 retransmitir		to retransmit/rebroadcast
-retrasar		to delay, to retard
 retratar		to paint a portrait
 retribuir		to repay/reward
 retrotraer		to antedate/date back
-reunirse		to assemble, to get together, to meet, to gather
 revender		to resell
 reventar		to burst/explode
+rever			to review/revise
 reverter		to overflow
 revertir		to revert
-rever			to review/revise
 revivir			to revive
-revocar			to revoke, to repeal
 revolar			to fly again
-revolcarse		to wallow/roll about
 revolcar		to knock down
+revolcarse		to wallow/roll about
 revolotear		to whirl up in the air
-revolver		to revolve, to turn around, to turn over/upside down
 rezar			to pray
 ridiculizar		to ridicule
 rimar			to rhyme
 rizar			to curl
-robar			to rob, to steal
 rociar			to spray/sprinkle
 rodar			to roll
-rodearse de		to surround oneself with
 rodear			to surround
-rogar			to supplicate, to ask, to ask for, to beg, to pray
-romper			to break, to shatter, to tear
+rodearse de		to surround oneself with
 roncar			to snore
 ronchar			to crunch/chew
 rondar			to patrol/prowl
@@ -1247,47 +825,30 @@ rubricar		to initial/sign and seal
 rular			to roll
 rumbar a		to go in the direction of
 rumiar			to ruminate/meditate
-saber			to know, to know how
 saborear		to savor/taste/relish
-sacar			to take out, to get
 sacrificar		to sacrifice
-sacudir			to shake, to jerk, to jolt
 salar			to salt/season with salt
 saldar			to settle/pay a debt
-salir			to go out, to leave
 salivar			to salivate
 salpicar		to splash
-saltar			to jump, to leap, to hop, to spring
 saltear			to hold up/rob
-saludar			to greet, to salute
 salvar			to save/rescue
 sanar			to cure/heal
 sancionar		to sanction/authorize/punish
-sangrarse		to be bled
 sangrar			to bleed
+sangrarse		to be bled
 saquear			to pillage/loot/sack
 satirizar		to satirize
-satisfacer		to satisfy
-secarse			to dry oneself
-secar			to dry, to wipe dry
 sedar			to soothe/quiet
 segregar		to segregate
-seguir			to follow, to pursue, to continue
 sellar			to seal/stamp
 sembrar			to sow
 semejar			to resemble
-señalar			to signal, to indicate, to point out, to show
-sentarse		to sit down
-sentirse		to fell (well, ill)
-sentir			to feel sorry, to regret, to feel
 separarse		to separate/come apart
-separar			to separate, to detach, to sort, to set apart
 sepultar		to bury
 serrar			to saw
-ser			to be
-servir			to serve
-signarse		to cross oneself
 signar			to sign
+signarse		to cross oneself
 significar		to signify/mean
 silbar			to whistle
 simbolizar		to symbolize
@@ -1304,55 +865,36 @@ sobreponer		to superimpose
 sobresalir		to stand out/excel
 sobresaltar		to attack/startle
 sobrevenir		to supervene/occur later
-socorrer		to help, to aid, to assist
-sofocar			to choke, to smother, to suffocate, to stifle
-soler			to be accustomed to, to be in the habit of
 solicitar		to solicit/request
 solidificar		to solidify
-sollozar		to sob, to whimper
 soltar			to loosen/untie/let go
 solucionar		to solve
 solventar		to settle/pay a debt
 sombrar			to shade
-someter			to subdue, to subject, to surrender, to submit
 sonarse			to blow one's nose
-soñar			to dream
-sonar			to ring, to echo, to resound, to sound
 sonorizar		to voice (phonetics)
-sonreír			to smile
 sopapear		to slap
 soplarse		to gobble up/wolf down
-soplar			to blow, to blow out
 soportar		to support/endure/put up with
 sorber			to sip
-sorprender		to surprise, to astonish
 sorregar		to irrigate
 sortear			to raffle/avoid/dodge
 sosegar			to quiet/calm down
-sospechar		to suspect
-sostener		to sustain, to support, to maintain, to uphold
 soterrar		to bury/hide
 suavizar		to smooth/soften
 subarrendar		to sublet/sublease
 subastar		to auction
-subir			to go up, to come up, to climb, to rise, to mount/get on
 sublimar		to exalt
 subordinar		to subordinate
-subrayar		to underline, to underscore, to emphasize
-subscribir		to subscribe, to agree to, to sign
 subsistir		to subsist
 substituir		to subsitute
 substraer		to subtract/take away/remove
 subvencionar		to subsidize
 subvenir		to provide for needs
 subvertir		to subvert/disturb
-suceder			to happen
 sudar			to sweat/perspire
-sufrir			to suffer, to endure, to bear up, to undergo
-sugerir			to hint, to insinuate, to suggest
 sujetar			to secure/fasten/subdue/subject
 sumar			to add/add up
-sumergir		to submerge, to plunge, to immerse, to sink
 suminstrar		to furnish/provide/supply
 sumir			to sink/submerge
 superar			to surpass/exceed
@@ -1360,14 +902,10 @@ superponer		to superpose
 supervenir		to happen/take place
 suplantar		to supplant/take the place of
 suplicar		to supplicate/entreat/implore
-suponer			to suppose, to assume
-suprimir		to suppress, to abolish, to cancel (math), to delete
 surcar			to plow
-surgir			to surge, to spout up, to spring up, to appear/emerge
 surtir			to supply/stock/provide
 suscribir		to subscribe
 suspender		to suspend/hang
-suspirar		to sigh
 sustraer		to subtract/take away
 susurrar		to murmur/whisper
 sutilizar		to file/refine/polish/taper
@@ -1377,7 +915,6 @@ tajar			to slice/carve/chop
 talar			to fell/cut down
 tambalear		to stagger
 tamizar			to sift
-tañer			to pluck, to play (stringed instrument)
 tapar			to cover
 tapiar			to wall up/wall in
 tapizar			to upholster/hang tapestry
@@ -1388,41 +925,26 @@ tascar			to gnaw/nibble
 teclear			to run one's fingers over piano or typewriter keys
 tejar			to tile
 tejer			to weave
-telefonear		to telephone
-telegrafiar		to telegraph, to cable
 teleguiar		to guide by remote control
 temblar			to tremble/shudder/shake
-temblar			to tremble, to quake, to quiver, to shake, to shiver
-temer			to fear, to dread
-tender			to extend, to offer, to stretch, to spread/hang clothes
-tener			to have, to hold
-tentar			to examine by touch, to feel w fingers, to attempt/try
 teorizar		to theorize
-terminar		to end, to terminate, to finish
 testar			to make a will/testament
 testificar		to testify/bear witness
-timarse con		to flirt with
 timar			to cheat/swindle
+timarse con		to flirt with
 timbrar			to put a seal or stamp on
 tintar			to tint/dye
-tirar			to pull, to draw, to pitch (ball), to shoot (gun),
 titular			to title/entitle
-tocar			to play (music/instrument), to touch
 tolerar			to tolerate
-tomar			to take, to have (something to drink)
 tontear			to act foolishly
 torcer			to twist
 tornar			to turn
 tornear			to go round
-torturarse		to worry excessively
 torturar		to torture
+torturarse		to worry excessively
 tostarse		to become sunburned
-tostar			to toast, to tan, to roast (coffee)
-trabajar		to work, to labor
-trabarse to palabras	to insult each other
 trabar			to bind/join/lock
-traducir		to translate
-traer			to bring
+trabarse to palabras	to insult each other
 tragar			to swallow
 traicionar		to betray
 trajinar		to rush about
@@ -1442,17 +964,16 @@ transponer		to transfer
 transportar		to transport
 tranzar			to break off/cut off/braid
 trascender		to transcend
-trascolarse		to percolate
 trascolar		to strain
+trascolarse		to percolate
 trasegar		to decant
-trasladarse		to move/change residence
 trasladar		to transfer/move
+trasladarse		to move/change residence
 traspasar		to pierce
 trasquilar		to shear/clip/crop (hair)
 trastornar		to turn upside down/upset/disturb
 trasvolar		to fly over/fly across
 tratarse de		to be a question of
-tratar			to try, to treat a subject
 travesar/atravesar	to cross/cross over/go through
 trazar			to trace/draw/sketch
 trenzar			to braid/plait
@@ -1473,7 +994,6 @@ trompicar		to trip/stumble
 tronar			to thunder
 tronchar		to crack/split
 tronzar			to slice
-tropezar		to stumble, to blunder
 trotar			to trot
 trucar			to pocket a ball in billiards
 truhanear		to cheat/trick
@@ -1483,8 +1003,8 @@ tullir			to cripple/disable
 tumbar			to knock down/knock over/overthrow
 tundir			to clip/shear/beat/thrash
 turbar			to disturb/upset/worry
-tutearse		to use the tú form with each other
 tutear			to use the tú form with someone
+tutearse		to use the tú form with each other
 ubicar			to locate/situate
 ufanarse de		to boast of
 ultimar			to finish off
@@ -1494,24 +1014,19 @@ uncir			to yoke
 ungir			to anoint
 unificar		to unify
 uniformar		to make uniform/standardize
-unir			to connect, to unite, to join, to bind, to attach
 untar			to apply ointment/spread butter on
 urdir			to scheme/plot
 urgir			to urge/be urgent
-usar			to use, to employ, to wear
 usurpar			to usurp/encroach
 utilizarse		to use/make use of
-utilizar		to utilize
 vacar			to become vacant
 vaciarse		to become empty
-vaciar			to empty
 vacilar			to vacillate
-vacunarse		to be vaccinated
 vacunar			to vaccinate
+vacunarse		to be vaccinated
 vagabundear		to roam/idle/loaf
 vagar			to roam/wander
 vaguear			to idle/loaf
-valer			to be worth, to cost
 validar			to validate
 vallar			to fence in/barricade
 valorar/valorear	to value/increase in value
@@ -1520,12 +1035,8 @@ valsar			to waltz
 variar			to vary
 vaticinar		to vaticinate/prophesy/predict/foretell
 vedar			to prohibit/forbid
-velar			to stay awake, to guard, to watch over
-vencer			to conquer, to overcome, to defeat
 vendar			to bandage
-vender			to sell
 vengar			to avenge
-venir			to come
 ventar			to sniff/scent/blow (wind)
 ventilar		to ventilate
 veranear		to spend the summer
@@ -1533,33 +1044,23 @@ verificar		to verify
 versar			to go round/turn
 versificar		to versify/write verses
 verter			to pour
-ver			to see
-vestirse		to dress oneself, to get dressed
 vestir			to clothe
-viajar			to travel
 vibrar			to vibrate
-vigilar			to watch (over), to keep guard, to look out for
 vincular		to relate/connect
 vindicar		to vindicate
 violar			to violate/rape
 visar			to visa/examine and endorse
-visitar			to visit
-vivir			to live
 vocalizar		to vocalize
 vocear			to shout/cry out
 vociferar		to vociferate/shout
-volar			to fly
 volcar			to overturn/turn over/tilt
 voltear			to turn over/roll over
-volver			to return, to go back
 vomitar			to vomit
-votar			to vote, to vow
-yacer			to lie down, to be lying down, to lie in a grave
 yapar			to give a little more/add a tip
 yermar			to strip/lay waste
 yuxtaponer		to juxtapose
-zafarse de		to escape from/get out of
 zafar			to loosen/untie
+zafarse de		to escape from/get out of
 zaherir			to wound with words/reproach/reprimand
 zahondar		to dig
 zambullir		to dive/plunge
@@ -1569,7 +1070,5 @@ zapatear		to tap one's feet
 zapear			to chase away/scare away
 zapuzar			to plunge into water
 zarandar/zarandear	to shake about
-zumbar			to buzz, to hum, to flutter around
 zunchar			to fasten with a band
-zurcir			to darn, to mend
 zurrar			to spank/wallop

@@ -1,0 +1,229 @@
+PRESENT TENSE
+yo		I
+tú		you
+el/ella/es	he/she/it
+nosotros	we
+ustedes		you all (formal)
+
+regular -ar verbs:
+o
+as
+a
+amos
+an
+
+regular -er verbs:
+o
+es
+e
+emos
+en
+
+regular -ir verbs:
+o
+es
+e
+imos
+en
+
+estar		ser
+estoy		soy
+estás		eres
+está		es
+estamos		somos
+están		son
+
+some -ir verbs stem change the e:i in all conj except nosotros
+pedir 		to ask for/to order
+pido
+pides
+pide
+pedimos
+piden
+
+other common e:i stem changing verbs:
+competir	to compete
+concebir	to conceive
+despedir	to fire
+impedir		to impede
+medir		to measure
+reñir		to scold/quarrel
+repetir		to repeat
+servir		to serve
+teñir		to color/dye/stain
+vestir		to dress
+
+some verbs of all three types change stem e:ie in all conj but nosotros
+cerrar		to close
+cierro
+cierras
+cierra
+cerramos
+cierran
+
+other common e:ie stem changing verbs:
+acertar		to manage to
+advertir	to alert
+atender		to attend to
+atravesar	to cross
+calentar	to heat
+comenzar	to begin
+confesar	to confess
+convertir	to convert
+defender	to defend
+despertar	to wake up
+divertir	to amuse
+empezar		to begin
+encender	to light
+entender	to understand
+enterrar	to bury
+fregar		to scrub
+herir		to injure
+hervir		to boil
+mentir		to lie
+merendar	to have lunch
+negar		to deny
+pensar		to think
+querer		to want
+regar		to water
+sugerir		to suggest
+temblar		to tremble
+tender		to stumble on
+verter		to spill
+
+some verbs of all three types change stem o:ue in all conj but nosotros
+contar
+yo cuento
+tú cuentas
+el cuenta
+nosotros contamos
+ustedes cuentan
+
+other common o:ue stem changing verbs
+acordar 	to agree/decide
+acostar		to put to bed
+almorzar	to eat lunch
+aprobar		to approve
+colgar		to hang
+contar		to count/to tell
+costar		to cost
+demostrar	to demonstrate/prove
+devolver	to return an object
+dormir		to sleep
+encontrar	to find
+envolver	to wrap
+forzar		to force
+morder		to bite
+morir		to die
+mostrar		to show
+mover		to move an object/to motivate
+poder		to be able to
+probar		to test/taste
+recordar	to remember
+resolver	to solve
+rogar		to beg/pray
+soler		to be in the habit of
+sonar		to sound/ring
+soñar		to dream
+tostar		to toast
+volar		to fly
+volver		to return
+
+irregular verbs 'ir' and 'dar'
+ir	to go		dar	to give/to have
+yo voy			doy
+tú vas			das
+el va			da
+nosotros vamos		damos
+ustedes van		dan
+
+irregular verbs 'tener' and 'venir'
+tener	to have		venir	to come
+tengo			vengo
+tienes			vienes
+tiene			viene
+tenemos			venimos
+tienen			vienen
+
+PRETERITE TENSE
+The preterite tense is used when referring to actions that occurred at a fixed
+point in time, or in the past that were performed a specific number of times,
+or during a specific enclosed period time, or were part of a chain of events.
+
+Regular -ar verbs		example: hablar
+é				hablé
+aste				hablaste
+ó				habló
+amos				hablamos
+aron				hablaron
+
+Regular -er, -ir verbs		examples: comer, vivir
+í				comí, viví
+iste				comiste, viviste
+ió				comió, vivió
+imos				comimos, vivimos
+ieron				comieron, vivieron
+
+ser		ir		dar		hacer
+fui		fui		di		hice
+fuiste		fuiste		diste		hiciste
+fue		fue		dio		hizo
+fuimos		fuimos		dimos		hicimos
+fueron		fueron		dieron		hicieron
+
+IMPERFECT TENSE
+The imperfect tense is used to describe something in the past the occurred 
+repeatedly or over an extended period of time.
+
+-ar verbs			example: hablar
+aba				hablaba
+abas				hablabas
+aba				hablaba
+ábamos				hablábamos
+aban				hablaban
+
+-er verbs, -ir verbs		example: vivir
+ía				vivía
+ías				vivías
+ía				vivía
+íamos				vivíamos
+ían				vivían
+
+ser		ver		ir
+era		veía		iba
+eras		veías		ibas
+era		veía		iba
+éramos		veíamos		íbamos
+eran		veían		iban
+
+CONDITIONAL TENSE
+The conditional tense is frequently used to express probability, possibility,
+wonder, or conjecture, and is usually translated as would, could, must have or
+probably
+
+-ar, -er, -ir verbs			example: comer
+ía					comería
+ías					comerías
+ía					comería
+íamos					comeríamos
+ían					comerían
+
+FUTURE TENSE
+The future tense is used to tell what "will" or "shall" happen.
+
+regular verbs
+é
+ás
+á
+emos
+án
+
+SUMMARY OF TENSES 
+for regular -er, -ir verbs
+
+PRESENT		PRETERITE	IMPERFECT	CONDITIONAL	FUTURE
+o		í		ía		ía		é
+es		iste		ías		ías		ás
+e		ió		ía		ía		á
+e/imos		imos		íamos		íamos		emos
+en		ieron		ían		ían		án

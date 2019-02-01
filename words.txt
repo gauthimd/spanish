@@ -344,6 +344,7 @@ desafortunadamente	unfortunately 1
 lamentablemente		unfortunately 2
 solamente		only 1
 sólo			only 2
+únicamente		only 3
 mayormente		especially
 hermosamente		beautifully
 constantemente		constantly
@@ -1193,7 +1194,7 @@ fugarse			to escape 2
 crimen			crime
 escena del crimen	crime scene
 libertad condicional	parole
-tiro			shot
+tiro			shot/throw
 bala			bullet
 culpable		guilty
 coche de policía	police car
@@ -1391,6 +1392,7 @@ quizá(s)		maybe/perhaps
 demás			the rest/others
 medida			measurement
 capaz			capable/able
+incapaz			incapable
 común			common
 esfuerzo		effort/endeavor
 resto			rest/remainder/leftover
@@ -1493,3 +1495,125 @@ rueda			wheel
 puente			bridge
 rasgo			feature/trait/act/gestures
 signo			sign/mark/symbol
+campaña			campaign
+pesado			heavy/boring/annoying
+virtud			virtue/quality
+conducta		conduct/behavior
+sano			healthy/wholesome
+pegar			to hit/to stick (on)
+verdaderamente		truly
+consciente		conscious/aware
+tratamiento		treatment/processing
+espectáculo		spectacle/show
+igualmente		equally
+misión			mission/task
+cotidiano		daily
+superficie		surface/area
+capítulo		chapter
+previo			previous
+lista			list
+listo			ready/clever/smart
+fracaso			failure
+inquietud		restlessness/anxiety
+seguido			in a row/successive
+griego			Greek
+belleza			beauty
+riqueza			riches/wealth
+ciego			blind
+justamente		just/exactly
+reír			to laugh (at)
+género			sort/gender/genre
+continuo		continuous
+bosque			forrest
+paisaje			landscape
+paciente		patient
+competencia		competition/competency/
+cifra			figure/amount/number
+aislado			isolated
+escala			scale/ladder/rank
+procedimiento		procedure/proceedings
+fórmula			formula
+ámbito			field/area/scope
+informe			report/reference (from employer)
+comercio		commerce/trade
+pico			beak/peak
+múltiple		multiple
+digno			worthy
+bomba			bomb
+órgano			organ
+inútil			useless
+soldado			soldier
+sólido			solid
+firme			firm/steady
+extremo			extreme
+conforme		in agreement
+esencial		essential
+desgracia		misfortune/bad luck
+cola			tail (animal)/line (of people)
+progreso		progress
+hábito			habit
+habilidad		ability/skill/talent
+mezcla			mixture/blend
+excesivo		excessive
+lujo			luxury
+sorbo			sip
+dominio			control/power/authority
+raza			race/lineage
+arena			sand
+salón			room/parlor/lounge
+fila			line/row/file
+típico			typical
+funcionario		civil servant
+crítico			critical
+red			network/net/system
+caída			fall/drop/falling
+valle			valley
+vuelo			flight
+esencia			essence
+no obstante		nevertheless
+sesión			session
+íntimo			close/intimate
+estrecho		narrow
+ancho			wide
+exposición		exhibit/display
+ingreso			entrance/admission/income
+dibujo			drawing/sketch
+ligero			light (in weight)/slight
+ideal			ideal/goal
+exigencia		requirement/demand
+hierro			iron
+tela			cloth/fabric
+símbolo			symbol
+agradable		nice/pleasant
+maravilloso		wonderful/marvelous
+relativo		relative
+enseñanza		teaching/instruction
+redondo			round
+borde			edge
+comparación		comparison
+romano			Roman
+suave			soft/gentle/mild
+opuesto			opposite/contrary
+reconocimiento		recognition/acknowledgment
+situado			situated/located
+alternativa		alternative
+rodeado			surrounded
+canal			channel
+lector			reader/lecturer
+magnífico		magnificent/splendid
+triunfo			triumph/victory
+victorio		victory/triumph
+campesino		rural
+aplicado		applied
+vacación		vocation
+continente		continent
+severo			severe
+tabla			chart/board/table/plank
+justo			fair/just
+ensayo			essay/rehearsal
+probable		probable
+privilegio		privilege
+monte			mount/mountain/hill
+montaña			mountain 
+sacrificio		sacrifice
+malsano			unhealthy
